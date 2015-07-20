@@ -9,5 +9,7 @@ The primary motivations for this project are:
  -    Create a mobile-friendly map of favorite local spots for NACIS 2015.
  -    Provide a vehicle for new people to learn how to use Github.
  -    Collaborate on a useful project as a Maptime chapter
+ 
+You can find a lot more info about the project in our [wiki](../../wiki)!
 
 
