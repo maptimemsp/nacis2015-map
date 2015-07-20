@@ -21,9 +21,27 @@ var confPin = L.MakiMarkers.icon({
     size: "l"
 });
 
-var pendingPin = L.MakiMarkers.icon({
+var beerPin = L.MakiMarkers.icon({
     icon: "beer",
-    color: "#939393",
+    color: "##23344c",
+    size: "m"
+});
+
+var barPin = L.MakiMarkers.icon({
+    icon: "bar",
+    color: "##23344c",
+    size: "m"
+});
+
+var restaurantPin = L.MakiMarkers.icon({
+    icon: "restaurant",
+    color: "##23344c",
+    size: "m"
+});
+
+var coffeePin = L.MakiMarkers.icon({
+    icon: "cafe",
+    color: "##23344c",
     size: "m"
 });
 
@@ -50,9 +68,19 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
       if (feature.properties.poi_type === 'conf') {
           marker.setIcon(confPin); 
          }
-      else {
-          marker.setIcon(pendingPin); 
+      if (feature.properties.poi_type === 'beer') {
+          marker.setIcon(confPin); 
          }
+      if (feature.properties.poi_type === 'bar') {
+          marker.setIcon(confPin); 
+         }
+      if (feature.properties.poi_type === 'restaurant') {
+          marker.setIcon(confPin); 
+         }
+      if (feature.properties.poi_type === 'cafe') {
+          marker.setIcon(confPin); 
+         }
+
       //marker.setIcon(beerPin);          
 		  marker.bindPopup(popup);
 	   
