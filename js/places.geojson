@@ -8,7 +8,7 @@
         "address": "225 Third Ave S",
         "web": "http://thedepotminneapolis.com/",
         "poi_type": "conf",
-        "scoop":"NACIS conference site"
+        "scoop": "NACIS conference site"
       },
       "geometry": {
         "type": "Point",
@@ -18,31 +18,31 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Marvel Bar",
         "address": "50 N 2nd Ave",
         "web": "http://marvelbar.com",
         "poi_type": "bar",
-        "scoop":"Hidden door, artisan cocktails"
+        "scoop": "Hidden door, artisan cocktails"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.26870,
+          -93.2687,
           44.98584
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Aster Bar",
         "address": "125 SE Main St",
         "web": "http://aster-cafe.com",
         "poi_type": "bar",
-        "scoop":"NACIS Night Out Venue"
+        "scoop": "NACIS Night Out Venue"
       },
       "geometry": {
         "type": "Point",
@@ -52,14 +52,14 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Bar la Grassa",
         "address": "800 Washington Ave N",
         "web": "http://www.barlagrassa.com/",
         "poi_type": "restaurant",
-        "scoop":"Isaac Becker - James Beard Best Chef Midwest "
+        "scoop": "Isaac Becker - James Beard Best Chef Midwest "
       },
       "geometry": {
         "type": "Point",
@@ -69,14 +69,14 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Zen Box Izakaya",
         "address": "602 South Washington Ave",
         "web": "http://zenboxizakaya.com/",
         "poi_type": "restaurant",
-        "scoop":"Japanese Pub Grub"
+        "scoop": "Japanese Pub Grub"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,8 @@
           45.00318082608626
         ]
       }
-    }, {
+    },
+    {
       "type": "Feature",
       "properties": {
         "title": "Boom Island Brewing Company",
@@ -164,8 +165,7 @@
           45.001026358295576
         ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
@@ -453,8 +453,7 @@
           44.793089307200425
         ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
@@ -650,22 +649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Maple Island Brewing",
-        "address": "225 Main Street North Stillwater, MN 55082",
-        "web": "http://mapleislandbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.80671179294586,
-          45.058259112282954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Flat Earth Brewing Company",
         "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
         "web": "http://flatearthbrewing.com",
@@ -691,199 +674,7 @@
         "type": "Point",
         "coordinates": [
           -93.08315634727478,
-           44.93295205460526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bent Paddle Brewing",
-        "address": "1912 W. Michigan St  Duluth, MN 55806",
-        "web": "http://www.bentpaddlebrewing.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.12197065353394,
-           46.767653608838515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Canal Park Brewing Company",
-        "address": "1300 Canal Park Dr  Duluth, MN 55802",
-        "web": "http://canalparkbrewery.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.09413468837738,
-           46.78484707433584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tycoons Alehouse and Eatery",
-        "address": "132 E Superior St  Duluth, MN 55802",
-        "web": "http://tycoonsalehouse.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.09563136100769,
-           46.788578947579495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fitgers Brewhouse",
-        "address": "600 E Superior St, Duluth, MN 55802",
-        "web": "http://brewhouse.net/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.09055125713348,
-           46.792615397132145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lake Superior Brewing Company",
-        "address": "2711 West Superior Street  Duluth, MN 55806",
-        "web": "http://www.lakesuperiorbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.13177144527435,
-           46.76154272851753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Castle Danger Brewery",
-        "address": "17 – 7th Street  Two Harbors, MN 55616",
-        "web": "http://castledangerbrewery.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.67317271232604,
-           47.01960349311115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dubh Linn Irish Brew Pub",
-        "address": "109 W. Superior Street  Duluth, MN, 55802",
-        "web": "http://www.dubhlinnpub.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.10001945495605,
-           46.78585720335899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Thirsty Pagan Brewery",
-        "address": "1623 Broadway  Superior, WI 54880",
-        "web": "http://www.thirstypaganbrewing.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.10217595100403,
-           46.72677138545918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Voyageur Brewing Company",
-        "address": "233 West Highway 61  Grand Marais, MN 55604",
-        "web": "http://www.voyageurbrewing.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.3370302915573,
-           47.75015223966159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pitchfork Brewing",
-        "address": "709 Rodeo Circle, Hudson, WI 54106",
-        "web": "http://www.pitchforkbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.68296003341675,
-          44.96605803781996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Oliphant Brewing",
-        "address": "350 Main St. #2 Somerset, WI 54025",
-        "web": "http://www.oliphantbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.67847537994385,
-          45.122785733835194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "American Sky Beer",
-        "address": "1510 Swasey St., Hudson, WI 54106",
-        "web": "http://www.americanskybeer.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.7386212348938,
-          44.95514124823334
+          44.93295205460526
         ]
       }
     },
@@ -999,40 +790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2800,
-          44.9690
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Goat Ridge Brewing",
-        "address": "17 Central Ave. West, New London, MN 56273",
-        "web": "http://www.goatridgebrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.94652986526489,
-          45.30119568054033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Union Pizza and Brewing",
-        "address": "114 S Union Ave, Fergus Falls, MN ",
-        "web": "http://unionpizzaandbrewing.com/",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.07623875141144,
-          46.28301346288511
+          -93.28,
+          44.969
         ]
       }
     },
@@ -1049,38 +808,6 @@
         "coordinates": [
           -93.2772946357727,
           44.98764256782427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rush River Brewing",
-        "address": "990 Antler Court, River Falls, WI 54022",
-        "web": "http://rushriverbeer.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.63826370239258,
-          44.89070663110981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lupulin Brewing",
-        "address": "570 Humboldt Drive, Suite 107, Big Lake, MN 55309",
-        "web": "http://www.lupulinbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.73934268951416,
-          45.331686444147294
         ]
       }
     },
@@ -1120,55 +847,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lupine Brewing",
-        "address": "3320 Third Street North, Saint Cloud, MN 56303",
-        "web": "http://lupinebrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.1989016532898,
-          45.55848268288521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Spilled Grain Brewhouse",
-        "address": "300 Elm Street, Annandale, MN 55302 ",
-        "web": "http://www.spilledgrainbrewhouse.com",
-        "status": "pending",
-        "expected": "Summer 2015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.118971824646,
-          45.25957307626026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Big Axe Brewing Company",
-        "address": "25435 Main St. Nisswa, MN 56468",
-        "web": "http://www.bigaxebrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.28900241851807,
-          46.5196951412051
-        ]
-      }
-      },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Able Seed House and Brewery",
         "address": "1121 Quincy St NE, Minneapolis, MN 55413 ",
         "web": "http://www.ablebeer.com",
@@ -1186,166 +864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hayes Public House",
-        "address": "112 1st St S, Buffalo, MN 55313",
-        "web": "http://www.hayespublichouse.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.87456893920898,
-          45.17096456608541
-        ]
-      }
-      },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Grand Rounds Brewpub",
-        "address": "4 3rd Street SW, Rochester, MN 55902",
-        "web": "http://grandroundsbrewpub.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.46333539485931,
-          44.02028254517522
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Junkyard Brewing",
-        "address": "1416 1st Ave N, Moorhead, MN 56560",
-        "web": "http://www.junkyardbeer.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.7566990852356,
-          46.876218161834885
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Boathouse Brewpub and Restaurant",
-        "address": "47 East Sheridan St. Ely MN 55731",
-        "web": "http://www.boathousebrewpub.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.86559438705444,
-          47.903476410234866
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Reads Landing Brewing Company",
-        "address": "70555 202nd St, Reads Landing, MN 55968",
-        "web": "http://www.rlbrewingco.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.07856714725494,
-          44.40281341065321
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Red Wing Brewery",
-        "address": "1411 Old West Main St., Red Wing, MN 55066 ",
-        "web": "http://www.redwingbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.54748702049255,
-          44.56268745902148
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Third Street Brewhouse",
-        "address": "219 Red River Ave, Cold Spring, MN 56320",
-        "web": "http://www.thirdstreetbrewhouse.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.42901372909544,
-          45.458158984368126
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wenonah Brewing Company",
-        "address": "4065 Sixth St, Goodview, Minnesota 55987",
-        "web": "http://www.wenonahbrewingcompany.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.69541358947754,
-          44.06231460352506
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bemidji Brewing",
-        "address": "4401 Beltrami Ave. NW Suite A, Bemidji, MN 56601",
-        "web": "http://bemidjibeer.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.88137364387511,
-          47.47174184767061
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Schram Vineyards and Brewery",
-        "address": "8785 Airport Rd, Waconia, MN 55387",
-        "web": "http://www.schramvineyards.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.88137364387511,
-          47.47174184767061
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sociable Ciderwerks",
         "address": "1500 Fillmore St. NEm Minneapolis, MN 55413",
         "web": "http://sociablecider.com",
@@ -1358,101 +876,6 @@
           45.004301648328955
         ]
       }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jack Pine Brewery",
-        "address": "7942 College Rd, Ste 115, Baxter, MN  56425",
-        "web": "http://www.jackpinebrewery.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.23500418663025,
-          46.34496498302826
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kinney Creek Brewery",
-        "address": "7942 College Rd, Ste 115, Baxter, MN  56425",
-        "web": "http://www.kinneycreekbrewery.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.47823774814606,
-          44.030974626360674
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "LTS Brewing Company",
-        "address": "2001 32nd Ave NW, Rochester, MN 55901",
-        "web": "http://www.ltsbrewing.com",
-        "status": "pending"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.51034379005432,
-          44.04472261002569
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gull Dam Brewing Company",
-        "address": "23836 Smiley Road, Nisswa, MN 56468",
-        "web": "http://gulldambrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.29753184318542,
-          46.497395212117844
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beaver Island Brewing Company",
-        "address": "216 6th Ave, St. Cloud, MN 56301",
-        "web": "http://beaverislandbrew.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.1569411754608,
-          45.558437610112286
-        ]
-      }
-  },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bank Brewing Company",
-        "address": "200 S Main St Hendricks, MN, 56136",
-        "web": "http://www.bankbrewing.com",
-        "status": "open"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.42569303512573,
-          44.50815173822386
-        ]
-      }
-  }]
+    }
+  ]
 }
