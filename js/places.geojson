@@ -51,5 +51,39 @@
           44.98468124749174
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Bar la Grassa",
+        "address": "800 Washington Ave N",
+        "web": "http://www.barlagrassa.com/",
+        "poi_type": "restaurant",
+        "scoop":"Isaac Becker - James Beard Best Chef Midwest "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2785552740097,
+          44.98914119181756
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Zen Box Izakaya",
+        "address": "602 South Washington Ave",
+        "web": "http://zenboxizakaya.com/",
+        "poi_type": "restaurant",
+        "scoop":"Japanese Pub Grub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25955986976624,
+          44.97841473352694
+        ]
+      }
     }]
 }
