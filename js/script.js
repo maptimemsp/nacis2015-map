@@ -1,5 +1,5 @@
 var map = L.map('map').setView([44.98044862724291, -93.26319694519043], 15);
-          
+
 
 		L.control.locate({
                       strings: {
@@ -47,11 +47,11 @@ var coffeePin = L.MakiMarkers.icon({
 
 var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		    pointToLayer: function (feature, latlng) {
-		    	
+
 				 var html = '';
                if (feature.properties.web) {
                       html += '<h3><a href="'+ feature.properties.web + '">' + feature.properties.title + '</a></h3>';
-                                           } 
+                                           }
                else {
                       html += '<h3>' + feature.properties.title + '</h3>';
                     }
@@ -66,27 +66,26 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 
       var marker = new L.marker(latlng);
       if (feature.properties.poi_type === 'conf') {
-          marker.setIcon(confPin); 
+          marker.setIcon(confPin);
          }
       if (feature.properties.poi_type === 'beer') {
-          marker.setIcon(confPin); 
+          marker.setIcon(beerPin);
          }
       if (feature.properties.poi_type === 'bar') {
-          marker.setIcon(confPin); 
+          marker.setIcon(barPin);
          }
       if (feature.properties.poi_type === 'restaurant') {
-          marker.setIcon(confPin); 
+          marker.setIcon(restaurantPin);
          }
       if (feature.properties.poi_type === 'cafe') {
-          marker.setIcon(confPin); 
+          marker.setIcon(cafePin); 
          }
 
-      //marker.setIcon(beerPin);          
+      //marker.setIcon(beerPin);
 		  marker.bindPopup(popup);
-	   
-		  return marker;		        
+
+		  return marker;
 		    }
 		});
 
 tapLayer.addTo(map);
-
