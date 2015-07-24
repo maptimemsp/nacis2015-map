@@ -23,25 +23,25 @@ var confPin = L.MakiMarkers.icon({
 
 var beerPin = L.MakiMarkers.icon({
     icon: "beer",
-    color: "##23344c",
+    color: "#23344c",
     size: "m"
 });
 
 var barPin = L.MakiMarkers.icon({
     icon: "bar",
-    color: "##23344c",
+    color: "#23344c",
     size: "m"
 });
 
 var restaurantPin = L.MakiMarkers.icon({
     icon: "restaurant",
-    color: "##23344c",
+    color: "#23344c",
     size: "m"
 });
 
 var coffeePin = L.MakiMarkers.icon({
     icon: "cafe",
-    color: "##23344c",
+    color: "#23344c",
     size: "m"
 });
 
@@ -78,7 +78,7 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
           marker.setIcon(restaurantPin);
          }
       if (feature.properties.poi_type === 'cafe') {
-          marker.setIcon(cafePin); 
+          marker.setIcon(cafePin);
          }
 
       //marker.setIcon(beerPin);
