@@ -17,5 +17,39 @@
           44.98044862724291
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Marvel Bar",
+        "address": "50 N 2nd Ave",
+        "web": "http://marvelbar.com",
+        "poi_type": "bar",
+        "scoop":"Hidden door, artisan cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26870,
+          44.98584
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Aster Bar",
+        "address": "125 SE Main St",
+        "web": "http://aster-cafe.com",
+        "poi_type": "bar",
+        "scoop":"NACIS Night Out Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25501888990402,
+          44.98468124749174
+        ]
+      }
     }]
 }
