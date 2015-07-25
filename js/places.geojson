@@ -773,6 +773,36 @@
           44.901791461160904
         ]
       }
-	}
+	},
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSP International Airport",
+        "address": "225 3rd Ave S, Minneapolis, MN 55401",
+        "poi_type": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.221941,
+          44.884634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Depot Renaissance Hotel",
+        "address": "225 3rd Ave S, Minneapolis, MN 55401",
+        "poi_type": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2627,
+          44.9805
+        ]
+      }
+    }
   ]
 }
