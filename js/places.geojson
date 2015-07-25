@@ -803,6 +803,21 @@
           44.9805
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Street Breads",
+        "address": "4600 Nicollet Ave S, Minneapolis,MN 55419",
+        "poi_type": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2781395316124,
+          44.91942512213253
+        ]
+      }
     }
   ]
 }
