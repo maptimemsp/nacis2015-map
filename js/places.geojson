@@ -809,7 +809,7 @@
       "properties": {
         "title": "Sun Street Breads",
         "address": "4600 Nicollet Ave S, Minneapolis,MN 55419",
-        "poi_type": "bakery"
+        "poi_type": "cafe"
       },
       "geometry": {
         "type": "Point",
