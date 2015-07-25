@@ -757,6 +757,52 @@
           45.004301648328955
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+	    "title": "Pizzaria Lola",
+        "address": "5557 Xerxes Ave. So., Minneapolis, MN 55410",
+        "web": "http://www.pizzerialola.com/",
+        "poi_type":"restaurant"
+	  },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31865161657333,
+          44.901791461160904
+        ]
+      }
+	},
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSP International Airport",
+        "address": "4300 Glumack Dr, St. Paul,  MN 55111",
+        "poi_type": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.221941,
+          44.884634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Depot Renaissance Hotel",
+        "address": "225 3rd Ave S, Minneapolis, MN 55401",
+        "poi_type": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2627,
+          44.9805
+        ]
+      }
     }
   ]
 }
