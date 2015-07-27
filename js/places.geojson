@@ -809,6 +809,7 @@
       "properties": {
         "title": "Sun Street Breads",
         "address": "4600 Nicollet Ave S, Minneapolis,MN 55419",
+        "web": "http://www.sunstreetbreads.com/",
         "poi_type": "cafe"
       },
       "geometry": {
@@ -816,6 +817,22 @@
         "coordinates": [
           -93.2781395316124,
           44.91942512213253
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "title": "Izzy's Ice Cream",
+        "address": "1100 Second Street South, Minneapolis, MN 55415",
+        "web": "http://izzysicecream.com/",
+        "poi_type": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25203627347946,
+          44.976433894554994
         ]
       }
     }
