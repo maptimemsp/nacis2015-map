@@ -47,25 +47,25 @@ var cafePin = L.MakiMarkers.icon({
 
 var hotelPin = L.MakiMarkers.icon({
 	icon: "lodging",
-	color: "#2a6496",
+	color: "#23344c",
 	size: "m"
 });
 
 var airportPin = L.MakiMarkers.icon({
 	icon: "airport",
-	color: "#2a6496",
+	color: "#23344c",
 	size: "m"
 });
 
 var icecreamPin = L.MakiMarkers.icon({
 	icon: "ice-cream",
-	color: "#2a6496",
+	color: "#23344c",
 	size: "m"
 });
 
 var museumPin = L.MakiMarkers.icon({
 	icon: "museum",
-	color: "#2a6496",
+	color: "#23344c",
 	size: "m"
 });
 
