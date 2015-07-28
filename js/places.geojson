@@ -35,6 +35,40 @@
         ]
       }
     },
+	  {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Racer Kitchen",
+        "address": "2929 EAST 25TH ST.",
+        "web": "http://www.caferacermn.com/",
+        "poi_type": "cafe",
+        "scoop":"upscale food at a good price and old motorcycles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.228661,
+		  44.957391
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "title": "Nye's Polonaise Room",
+        "address": "112 East Hennepin Avenue",
+        "web": "http://www.nyespolonaise.com/",
+        "poi_type": "restaurant",
+        "scoop":"polka and pierogi, voted the best bar in America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.258246,
+		  44.987130
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
