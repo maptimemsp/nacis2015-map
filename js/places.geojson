@@ -35,37 +35,37 @@
         ]
       }
     },
-	  {
+    {
       "type": "Feature",
       "properties": {
         "title": "Cafe Racer Kitchen",
         "address": "2929 EAST 25TH ST.",
         "web": "http://www.caferacermn.com/",
         "poi_type": "cafe",
-        "scoop":"upscale food at a good price and old motorcycles"
+        "scoop": "upscale food at a good price and old motorcycles"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -93.228661,
-		  44.957391
+          44.957391
         ]
       }
     },
-	  {
+    {
       "type": "Feature",
       "properties": {
         "title": "Nye's Polonaise Room",
         "address": "112 East Hennepin Avenue",
         "web": "http://www.nyespolonaise.com/",
         "poi_type": "restaurant",
-        "scoop":"polka and pierogi, voted the best bar in America"
+        "scoop": "polka and pierogi, voted the best bar in America"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -93.258246,
-		  44.987130
+          44.98713
         ]
       }
     },
@@ -126,7 +126,8 @@
         "title": "Dangerous Man Brewing",
         "address": "1300 2nd Street NE Minneapolis, MN 55413",
         "web": "http://dangerousmanbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +143,8 @@
         "title": "Indeed Brewing Company",
         "address": "711 15th Avenue NE Minneapolis MN 55413",
         "web": "http://www.indeedbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -158,7 +160,8 @@
         "title": "Boom Island Brewing Company",
         "address": "2014 Washington Ave. N Minneapolis, MN 55411",
         "web": "http://boomislandbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +177,9 @@
         "title": "Harriet Brewing",
         "address": "3036 Minnehaha Ave Minneapolis, MN 55406",
         "web": "http://www.harrietbrewing.com/",
-        "status":"open","poi_type":"beer","scoop":"Tap Room"
+        "status": "open",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -190,7 +195,8 @@
         "title": "Bauhous Brew Labs",
         "address": "1315 Tyler Street NE Minneapolis, Minnesota 55413",
         "web": "http://bauhausbrewlabs.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -206,7 +212,8 @@
         "title": "612 Brew",
         "address": "945 Broadway St NE Minneapolis, MN 55413",
         "web": "http://www.612brew.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +229,8 @@
         "title": "Fulton Brewery",
         "address": "414 6th Ave N Minneapolis MN 55401",
         "web": "http://fultonbeer.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +246,8 @@
         "title": "Town Hall Brewery",
         "address": "1430 Washington Ave. S Minneapolis, MN 55454",
         "web": "http://www.townhallbrewery.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +263,8 @@
         "title": "Day Block Brewing Company",
         "address": "1105 Washington Ave S Minneapolis, MN 55415",
         "web": "https://www.dayblockbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +280,8 @@
         "title": "Herkimer Pub and Brewery",
         "address": "922 Lyndale Ave S. Minneapolis MN 55408",
         "web": "http://www.theherkimer.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -286,7 +297,8 @@
         "title": "Great Waters Brewing Company",
         "address": "426 Saint Peter Street Saint Paul, MN 55102",
         "web": "http://www.greatwatersbc.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -302,7 +314,8 @@
         "title": "Bang Brewing",
         "address": "2320 Capp Road Saint Paul, MN 55114",
         "web": "http://bangbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -318,7 +331,8 @@
         "title": "Big Wood Brewing",
         "address": "2222 4th St. White Bear Lake, MN 55110",
         "web": "http://bigwoodbrewery.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -334,7 +348,8 @@
         "title": "Burning Brothers Brewing",
         "address": "1750 W Thomas Ave St. Paul, MN 55104",
         "web": "http://www.burnbrosbrew.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -350,7 +365,8 @@
         "title": "Excelsior Brewing",
         "address": "421 3rd Street, Excelsior, MN 55331",
         "web": "http://excelsiorbrew.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +382,8 @@
         "title": "Hammerheart Brewing",
         "address": "7785 Lake Dr. Lino Lakes, MN 55014",
         "web": "http://hammerheartbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +399,8 @@
         "title": "Sysiphus Brewing",
         "address": "712 Ontario Avenue W. #100 Minneapolis, MN 55403",
         "web": "http://www.sisyphusbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -398,7 +416,8 @@
         "title": "Summit Brewing",
         "address": "910 Montreal Circle, St. Paul, MN 55102",
         "web": "http://summitbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -414,7 +433,8 @@
         "title": "Steel Toe Brewing",
         "address": "4848 W. 35th St. St. Louis Park, MN",
         "web": "http://www.steeltoebrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -430,7 +450,8 @@
         "title": "Tin Whiskers Brewing Company",
         "address": "125 E 9th St. Unit 127 St. Paul, MN 55101",
         "web": "http://twbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +467,8 @@
         "title": "Urban Growler Brewing Company",
         "address": "2325 Endicott Street St. Paul, MN 55114",
         "web": "http://www.urbangrowlerbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -462,7 +484,8 @@
         "title": "Bent Brewstillery",
         "address": "1744 Terrace Drive Roseville, MN 55113",
         "web": "http://www.bentbrewstillery.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -478,7 +501,8 @@
         "title": "Badger Hill Brewing Company",
         "address": "4571 Valley Industrial Blvd. S. Shakopee, MN 55379",
         "web": "http://www.badgerhillbrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -494,7 +518,8 @@
         "title": "Enki Brewing",
         "address": "7929 Victoria Drive Victoria, Minnesota 55386",
         "web": "http://www.enkibrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -510,7 +535,8 @@
         "title": "Fair State Brewing Cooperative",
         "address": "2506A Central Ave NE Minneapolis, MN 55418 ",
         "web": "http://fairstatebrewing.tumblr.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -526,7 +552,8 @@
         "title": "Insight Brewing",
         "address": "2821 East Hennepin Avenue Minneapolis, MN 55413",
         "web": "http://www.insightbrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -542,7 +569,8 @@
         "title": "LTD Brewing Company",
         "address": "8 8th Ave. N. Hopkins, MN 55343",
         "web": "http://www.ltdbrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -558,7 +586,8 @@
         "title": "Flat Earth Brewing Company",
         "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
         "web": "http://flatearthbrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +603,8 @@
         "title": "Surly Brewing Company",
         "address": "520 Malcolm Ave SE Minneapolis, MN, 55414 ",
         "web": "http://surlybrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -590,7 +620,8 @@
         "title": "EastLake Brewery and Tavern",
         "address": "920 E. Lake St. #123 Minneapolis, MN 55407",
         "web": "http://www.eastlakemgm.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +637,8 @@
         "title": "NorthGate Brewing",
         "address": "783 Harding St. NE Minneapolis, MN 55413",
         "web": "http://www.northgatebrew.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -622,7 +654,8 @@
         "title": "Lynlake Brewery",
         "address": "2934 Lyndale Avenue S. Minneapolis, MN 55408",
         "web": "http://www.lynlakebrewery.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -638,7 +671,8 @@
         "title": "Northbound Smokehouse",
         "address": "2716 East 38th Street, Minneapolis, MN 55406",
         "web": "http://www.northboundbrewpub.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +688,8 @@
         "title": "Waconia Brewing",
         "address": "255 Main Street West Waconia, MN",
         "web": "http://www.waconiabrewing.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -670,7 +705,8 @@
         "title": "Lift Bridge Brewing",
         "address": "1900 Tower Dr Stillwater, MN 55082",
         "web": "http://liftbridgebrewery.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -686,7 +722,8 @@
         "title": "Flat Earth Brewing Company",
         "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
         "web": "http://flatearthbrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -702,7 +739,8 @@
         "title": "Wabasha Brewing Company",
         "address": "429 Wabasha St S  St Paul, MN 55107",
         "web": "https://www.facebook.com/pages/Wabasha-Brewing-Company/1417295038505592",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -718,7 +756,8 @@
         "title": "Barley John's",
         "address": "781 Old Highway 8 SW, New Brighton, MN 55112",
         "web": "http://www.barleyjohns.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -734,7 +773,8 @@
         "title": "Sidhe Brewing Company",
         "address": "7990 Payne Ave, St Paul, MN 55130",
         "web": "http://www.sidhebrewing.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -750,7 +790,8 @@
         "title": "The Freehouse",
         "address": "701 N Washington Ave, Minneapolis, MN 55401",
         "web": "http://freehousempls.com/",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -766,7 +807,8 @@
         "title": "South Fork Brewing Company",
         "address": "221 2nd Street North, Delano, MN 55328",
         "web": "http://southforkbrewingcompany.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -782,7 +824,8 @@
         "title": "Sociable Ciderwerks",
         "address": "1500 Fillmore St. NEm Minneapolis, MN 55413",
         "web": "http://sociablecider.com",
-        "poi_type":"beer","scoop":"Tap Room"
+        "poi_type": "beer",
+        "scoop": "Tap Room"
       },
       "geometry": {
         "type": "Point",
@@ -792,14 +835,14 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
-	    "title": "Pizzaria Lola",
+        "title": "Pizzaria Lola",
         "address": "5557 Xerxes Ave. So., Minneapolis, MN 55410",
         "web": "http://www.pizzerialola.com/",
-        "poi_type":"restaurant"
-	  },
+        "poi_type": "restaurant"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -807,7 +850,7 @@
           44.901791461160904
         ]
       }
-	},
+    },
     {
       "type": "Feature",
       "properties": {
@@ -838,7 +881,7 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Sun Street Breads",
@@ -854,7 +897,7 @@
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
         "title": "Izzy's Ice Cream",
@@ -867,6 +910,22 @@
         "coordinates": [
           -93.25203627347946,
           44.976433894554994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fasika",
+        "address": "510 Snelling Ave N, St Paul, MN 55104",
+        "web": "http://www.fasika.com/welcome.html",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.166736, 
+          44.956653
         ]
       }
     }
