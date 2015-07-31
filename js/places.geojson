@@ -928,6 +928,22 @@
           44.956653
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minnehaha Falls Regional Park",
+        "address": "4801 S Minnehaha Park Dr, Minneapolis, MN 55417",
+        "web": "http://www.nps.gov/miss/planyourvisit/minnehah.htm",
+        "poi_type": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2122, 
+          44.9156
+        ]
+      }
     }
   ]
 }
