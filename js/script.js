@@ -69,22 +69,28 @@ var museumPin = L.MakiMarkers.icon({
 	size: "m"
 });
 
+var parkPin = L.MakiMarkers.icon({
+	icon: "park",
+	color: "#23344c",
+	size: "m"
+})
+
 var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		    pointToLayer: function (feature, latlng) {
 
-				 var html = '';
+	var html = '';
                if (feature.properties.web) {
                       html += '<h3><a href="'+ feature.properties.web + '">' + feature.properties.title + '</a></h3>';
-                                           }
+                }
                else {
                       html += '<h3>' + feature.properties.title + '</h3>';
-                    }
+               }
                if (feature.properties.address) {
                       html += '<p>'+ feature.properties.address + '</p>';
-                                               }
+               }
                if (feature.properties.scoop) {
                       html += '<p>'+ feature.properties.scoop + '</p>';
-                                               }
+               }
       html += '<div class="put"></div>';
       var popup = new L.popup({closeButton:false}).setContent(html);
 
@@ -110,15 +116,18 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
       if (feature.properties.poi_type === 'airport') {
           marker.setIcon(airportPin);
          }
-			if (feature.properties.poi_type === 'ice-cream') {
-				 	marker.setIcon(icecreamPin);
-				 }
-			if (feature.properties.poi_type === 'museum') {
-	 				marker.setIcon(museumPin);
-	 				 }
+      if (feature.properties.poi_type === 'ice-cream') {
+	  marker.setIcon(icecreamPin);
+	 }
+      if (feature.properties.poi_type === 'museum') {
+          marker.setIcon(museumPin);
+         }
+      if (feature.properties.poi_type === 'park') {
+          marker.setIcon(parkPin);
+         }
 
       //marker.setIcon(beerPin);
-		  marker.bindPopup(popup);
+	marker.bindPopup(popup);
 
 		  return marker;
 		    }
