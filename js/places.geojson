@@ -924,7 +924,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.166736, 
+          -93.166736,
           44.956653
         ]
       }
@@ -940,10 +940,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.2122, 
+          -93.2122,
           44.9156
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patisserie 46",
+        "address": "50 N 2nd Ave",
+        "web": "http://patisserie46.com",
+        "poi_type": "cafe",
+        "scoop": "James Beard Nominee ,amazing bread and pastries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28468680381775,
+          44.919719508771
+        ]
+      }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Minneaplis Institute of Arts",
+          "address": "2400 3rd Ave S, Minneapolis, MN 55404",
+          "web": "http://new.artsmia.org",
+          "poi_type": "museum"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.27321767807007,
+          44.95828440335997
+          ]
+        }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "The Third Bird",
+            "address": "1612 Harmon Pl, Minneapolis 55403",
+            "web": "http://www.thethirdbirdmpls.com/",
+            "poi_type": "restaurant"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -93.28571945428848,
+          44.97160104340235
+            ]
+          }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "title": "Minneapolis Sculpture Garden",
+              "address": "1750 Hennepin Avenue, Minneapolis, MN 55403",
+              "web": "https://www.walkerart.org/garden/",
+              "poi_type": "museum"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.28906416893005,
+          44.97005072572199
+              ]
+            }
+            }
   ]
 }
