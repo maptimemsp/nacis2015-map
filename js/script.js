@@ -73,13 +73,13 @@ var parkPin = L.MakiMarkers.icon({
 	icon: "park",
 	color: "#23344c",
 	size: "m"
-})
+});
 
 var theatrePin = L.MakiMarkers.icon({
 	icon: "theatre",
 	color: "#23344c",
 	size: "m"
-})
+});
 
 var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		    pointToLayer: function (feature, latlng) {
