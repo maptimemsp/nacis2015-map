@@ -1016,7 +1016,7 @@
               "title": "Guthrie Theater",
               "address": "818 S 2nd St, Minneapolis, MN 55415",
               "web": "www.guthrietheater.org",
-              "poi_type": "museum"
+              "poi_type": "theatre"
             },
             "geometry": {
               "type": "Point",

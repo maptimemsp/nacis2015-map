@@ -75,6 +75,12 @@ var parkPin = L.MakiMarkers.icon({
 	size: "m"
 })
 
+var theatrePin = L.MakiMarkers.icon({
+	icon: "theatre",
+	color: "#23344c",
+	size: "m"
+})
+
 var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		    pointToLayer: function (feature, latlng) {
 
@@ -125,6 +131,9 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
       if (feature.properties.poi_type === 'park') {
           marker.setIcon(parkPin);
          }
+      if (feature.properties.poi_type === 'theatre') {
+      	  marker.setIcon(theatrePin);
+      }
 
       //marker.setIcon(beerPin);
 	marker.bindPopup(popup);
