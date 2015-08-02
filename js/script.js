@@ -81,6 +81,12 @@ var theatrePin = L.MakiMarkers.icon({
 	size: "m"
 });
 
+var shopPin = L.MakiMarkers.icon({
+	icon: "shop",
+	color: "#23344c",
+	size: "m"
+});
+
 //LRT Station Icons
 var blueLRTPin = L.MakiMarkers.icon({
 	icon: "rail-light",
@@ -203,6 +209,9 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
          }
       if (feature.properties.poi_type === 'theatre') {
       	  marker.setIcon(theatrePin);
+      	 }
+      if (feature.properties.poi_type === 'shop') {
+      	  marker.setIcon(shopPin);
       	 }
 
 	marker.bindPopup(popup);
