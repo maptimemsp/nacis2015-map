@@ -14,7 +14,7 @@ var map = L.map('map').setView([44.98044862724291, -93.26319694519043], 15);
 var baselayer = new L.StamenTileLayer("terrain");
 baselayer.addTo(map);
 
-
+//POI Icons
 var confPin = L.MakiMarkers.icon({
     icon: "star",
     color: "#ff0000",
@@ -81,7 +81,77 @@ var theatrePin = L.MakiMarkers.icon({
 	size: "m"
 });
 
-var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
+//LRT Station Icons
+var blueLRTPin = L.MakiMarkers.icon({
+	icon: "rail-light",
+	color: "#0000FF",
+	size: "s"
+});
+
+var greenLRTPin = L.MakiMarkers.icon({
+	icon: "rail-light",
+	color: "#008000",
+	size: "s"
+});
+
+var railPin = L.MakiMarkers.icon({
+	icon: "rail",
+	color: "#FFA500",
+	size: "s"
+});
+
+//LRT Stations GeoJSON layer
+var lrtStations = new L.GeoJSON.AJAX("js/lrtStations.json",{
+    pointToLayer: function (feature, latlng) {
+
+		var html = '';
+		       if (feature.properties.Station) {
+		    	   html += '<h3>' + feature.properties.Station + '</h3>';
+		        }
+               if (feature.properties.Transitway) {
+                   html += '<p>'+ feature.properties.Transitway + '</p>';
+            }
+		html += '<div class="put"></div>';
+		
+		var popup = new L.popup({
+			closeButton:false
+		}).setContent(html);
+		
+		var lrtMarker = new L.marker(latlng);
+		      if (feature.properties.Transitway === 'Northstar Line') {
+		          lrtMarker.setIcon(railPin);
+		         }
+		      if (feature.properties.Transitway === 'Green Line') {
+		          lrtMarker.setIcon(greenLRTPin);
+		         }
+		      if (feature.properties.Transitway.match(/Blue*/)) {
+		          lrtMarker.setIcon(blueLRTPin);
+		         }
+		  	lrtMarker.bindPopup(popup);	
+		return lrtMarker;
+	}
+}).addTo(map);
+
+//LRT Lines GeoJSON Color
+function lrtLineColor(Name) {
+	return 	Name === 'Green'     ? '#008000' :
+			Name === 'Blue'  	 ? '#0000FF' :
+			Name === 'Northstar' ? '#FFA500' :	
+							 	   '#000';
+}
+
+//LRT Lines GeoJSON
+var lrtLines = new L.GeoJSON.AJAX("js/lrtLines.json",{
+	style: function (feature) {
+		return { 
+			color: lrtLineColor(feature.properties.Name),
+			dashArray: [3, 10]
+		};
+    }
+}).addTo(map);
+
+//POI GeoJSON Layer
+var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		    pointToLayer: function (feature, latlng) {
 
 	var html = '';
@@ -123,8 +193,8 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
           marker.setIcon(airportPin);
          }
       if (feature.properties.poi_type === 'ice-cream') {
-	  marker.setIcon(icecreamPin);
-	 }
+    	  marker.setIcon(icecreamPin);
+      	 }
       if (feature.properties.poi_type === 'museum') {
           marker.setIcon(museumPin);
          }
@@ -133,13 +203,12 @@ var tapLayer = new L.GeoJSON.AJAX("js/places.geojson",{
          }
       if (feature.properties.poi_type === 'theatre') {
       	  marker.setIcon(theatrePin);
-      }
+      	 }
 
-      //marker.setIcon(beerPin);
 	marker.bindPopup(popup);
 
 		  return marker;
 		    }
 		});
 
-tapLayer.addTo(map);
+poiLayer.addTo(map);
