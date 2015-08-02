@@ -1015,7 +1015,7 @@
             "properties": {
               "title": "Guthrie Theater",
               "address": "818 S 2nd St, Minneapolis, MN 55415",
-              "web": "www.guthrietheater.org",
+              "web": "http://www.guthrietheater.org",
               "poi_type": "theatre"
             },
             "geometry": {
@@ -1023,6 +1023,22 @@
               "coordinates": [
                 -93.2557175,
                 44.978199
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Mall of America",
+              "address": "60 E Broadway, Bloomington, MN 55425",
+              "web": "http://www.mallofamerica.com",
+              "poi_type": "shop"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.2420825958252,
+          		44.85465191564147
               ]
             }
             }
