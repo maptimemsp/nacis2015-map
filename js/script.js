@@ -10,7 +10,9 @@ var map = L.map('map').setView([44.98044862724291, -93.26319694519043], 15);
                                }
                      }).addTo(map);
 
-var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf82ff09/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZmxhdGxhbmRtYXBzIiwiYSI6IldOSXVCWWMifQ.HhYmSncMHxdF_TGZbXo9sQ');
+var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf82ff09/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZmxhdGxhbmRtYXBzIiwiYSI6IldOSXVCWWMifQ.HhYmSncMHxdF_TGZbXo9sQ', {
+    attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">© Mapbox © OpenStreetMap</a>&nbsp<a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a>'
+});
 baselayer.addTo(map);
 
 //POI Icons
