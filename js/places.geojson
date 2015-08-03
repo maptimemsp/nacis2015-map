@@ -328,23 +328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Big Wood Brewing",
-        "address": "2222 4th St. White Bear Lake, MN 55110",
-        "web": "http://bigwoodbrewery.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.00675094127655,
-          45.08524812200069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Burning Brothers Brewing",
         "address": "1750 W Thomas Ave St. Paul, MN 55104",
         "web": "http://www.burnbrosbrew.com",
@@ -356,40 +339,6 @@
         "coordinates": [
           -93.17415833473206,
           44.958747510697805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Excelsior Brewing",
-        "address": "421 3rd Street, Excelsior, MN 55331",
-        "web": "http://excelsiorbrew.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.56658160686491,
-          44.90221322771245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hammerheart Brewing",
-        "address": "7785 Lake Dr. Lino Lakes, MN 55014",
-        "web": "http://hammerheartbrewing.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.1066632270813,
-          45.18916763110019
         ]
       }
     },
@@ -430,23 +379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Steel Toe Brewing",
-        "address": "4848 W. 35th St. St. Louis Park, MN",
-        "web": "http://www.steeltoebrewing.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.34125459194183,
-          44.94134045653052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Tin Whiskers Brewing Company",
         "address": "125 E 9th St. Unit 127 St. Paul, MN 55101",
         "web": "http://twbrewing.com/",
@@ -481,57 +413,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bent Brewstillery",
-        "address": "1744 Terrace Drive Roseville, MN 55113",
-        "web": "http://www.bentbrewstillery.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.17384719848631,
-          45.02448596951991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Badger Hill Brewing Company",
-        "address": "4571 Valley Industrial Blvd. S. Shakopee, MN 55379",
-        "web": "http://www.badgerhillbrewing.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.46155166625977,
-          44.793089307200425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Enki Brewing",
-        "address": "7929 Victoria Drive Victoria, Minnesota 55386",
-        "web": "http://www.enkibrewing.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.66160422563553,
-          44.85979120670529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Fair State Brewing Cooperative",
         "address": "2506A Central Ave NE Minneapolis, MN 55418 ",
         "web": "http://fairstatebrewing.tumblr.com/",
@@ -560,40 +441,6 @@
         "coordinates": [
           -93.21281433105469,
           44.9918234412382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "LTD Brewing Company",
-        "address": "8 8th Ave. N. Hopkins, MN 55343",
-        "web": "http://www.ltdbrewing.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.41126561164856,
-          44.92429275391085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Flat Earth Brewing Company",
-        "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
-        "web": "http://flatearthbrewing.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.07164430618286,
-          44.962835599398545
         ]
       }
     },
@@ -685,108 +532,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Waconia Brewing",
-        "address": "255 Main Street West Waconia, MN",
-        "web": "http://www.waconiabrewing.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.7904441356659,
-          44.850559928641516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lift Bridge Brewing",
-        "address": "1900 Tower Dr Stillwater, MN 55082",
-        "web": "http://liftbridgebrewery.com/",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.83179044723511,
-          45.03911207392489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Flat Earth Brewing Company",
-        "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
-        "web": "http://flatearthbrewing.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.07160139083862,
-          44.96286976047243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wabasha Brewing Company",
-        "address": "429 Wabasha St S  St Paul, MN 55107",
-        "web": "https://www.facebook.com/pages/Wabasha-Brewing-Company/1417295038505592",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.08315634727478,
-          44.93295205460526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Barley John's",
-        "address": "781 Old Highway 8 SW, New Brighton, MN 55112",
-        "web": "http://www.barleyjohns.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.1981909275055,
-          45.036102237640264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sidhe Brewing Company",
-        "address": "7990 Payne Ave, St Paul, MN 55130",
-        "web": "http://www.sidhebrewing.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.07322144508362,
-          44.970984336982184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "The Freehouse",
         "address": "701 N Washington Ave, Minneapolis, MN 55401",
         "web": "http://freehousempls.com/",
@@ -798,23 +543,6 @@
         "coordinates": [
           -93.2772946357727,
           44.98764256782427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "South Fork Brewing Company",
-        "address": "221 2nd Street North, Delano, MN 55328",
-        "web": "http://southforkbrewingcompany.com",
-        "poi_type": "beer",
-        "scoop": "Tap Room"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.7881588935852,
-          45.04253869730901
         ]
       }
     },
