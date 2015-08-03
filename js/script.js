@@ -10,8 +10,7 @@ var map = L.map('map').setView([44.98044862724291, -93.26319694519043], 15);
                                }
                      }).addTo(map);
 
-//var baselayer = new L.StamenTileLayer("toner-lite");
-var baselayer = new L.StamenTileLayer("terrain");
+var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf82ff09/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZmxhdGxhbmRtYXBzIiwiYSI6IldOSXVCWWMifQ.HhYmSncMHxdF_TGZbXo9sQ');
 baselayer.addTo(map);
 
 //POI Icons
@@ -118,11 +117,11 @@ var lrtStations = new L.GeoJSON.AJAX("js/lrtStations.json",{
                    html += '<p>'+ feature.properties.Transitway + '</p>';
             }
 		html += '<div class="put"></div>';
-		
+
 		var popup = new L.popup({
 			closeButton:false
 		}).setContent(html);
-		
+
 		var lrtMarker = new L.marker(latlng);
 		      if (feature.properties.Transitway === 'Northstar Line') {
 		          lrtMarker.setIcon(railPin);
@@ -133,7 +132,7 @@ var lrtStations = new L.GeoJSON.AJAX("js/lrtStations.json",{
 		      if (feature.properties.Transitway.match(/Blue*/)) {
 		          lrtMarker.setIcon(blueLRTPin);
 		         }
-		  	lrtMarker.bindPopup(popup);	
+		  	lrtMarker.bindPopup(popup);
 		return lrtMarker;
 	}
 }).addTo(map);
@@ -142,14 +141,14 @@ var lrtStations = new L.GeoJSON.AJAX("js/lrtStations.json",{
 function lrtLineColor(Name) {
 	return 	Name === 'Green'     ? '#008000' :
 			Name === 'Blue'  	 ? '#0000FF' :
-			Name === 'Northstar' ? '#FFA500' :	
+			Name === 'Northstar' ? '#FFA500' :
 							 	   '#000';
 }
 
 //LRT Lines GeoJSON
 var lrtLines = new L.GeoJSON.AJAX("js/lrtLines.json",{
 	style: function (feature) {
-		return { 
+		return {
 			color: lrtLineColor(feature.properties.Name),
 			dashArray: [3, 10]
 		};
