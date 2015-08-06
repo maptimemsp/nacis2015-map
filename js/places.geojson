@@ -769,6 +769,156 @@
           		44.85465191564147
               ]
             }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Dunn Brothers Coffee",
+              "address": "201 3rd Ave S, Minneapolis, MN 55401",
+              "web": "http://dunnbrothers-freighthouse.com/",
+              "poi_type": "cafe"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.26315402984619,
+                44.980782543196874
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Dogwood Coffee Bar",
+              "address": "228 N Washington Ave, Minneapolis, MN 55401",
+              "web": "http://www.dogwoodcoffee.com",
+              "poi_type": "cafe"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27200531959532,
+                44.984641408058756
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Taraccino Coffee",
+              "address": "224 E Hennepin Ave, Minneapolis, MN 55414",
+              "web": "http://www.taraccinocoffee.com/",
+              "poi_type": "cafe"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.25656652450562,
+                44.98776397679619
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Punch Pizza",
+              "address": "210 E Hennepin Ave, Minneapolis, MN 55414",
+              "web": "http://www.punchpizza.com/",
+              "poi_type": "restaurant",
+              "scoop": "Best Neopolitan pizza in town"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.25701177120209,
+                44.98763877378977
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Bulldog Northeast",
+              "address": "401 E Hennepin Ave, Minneapolis, MN 55414",
+              "web": "http://www.thebulldognortheast.com/",
+              "poi_type": "bar",
+              "scoop": "Great beer selection"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.25490891933441,
+                44.98870109364528
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Smack Shack",
+              "address": "603 N Washington Ave, Minneapolis, MN 55401",
+              "web": "http://smack-shack.com/",
+              "poi_type": "restaurant",
+              "scoop": "Lobster Rolls, former food truck made good"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27620029449463,
+                44.98689513817634
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Black Sheep Pizza",
+              "address": "600 N Washington Ave, Minneapolis, MN 55401",
+              "web": "http://blacksheeppizza.com/",
+              "poi_type": "restaurant",
+              "scoop": "Coal fired, very good"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27586233615875,
+                44.98716072343145
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Borough",
+              "address": "730 N Washington Ave, Minneapolis, MN 55401",
+              "web": "http://www.boroughmpls.com",
+              "poi_type": "restaurant",
+              "scoop": "Bon Appetit Top 50 Best New Restaurants in America 2013."
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27820122241974,
+                44.98886802783255
+              ]
+            }
+            },
+            {
+            "type": "Feature",
+            "properties": {
+              "title": "Parlour",
+              "address": "730 N Washington Ave, Minneapolis, MN 55401",
+              "web": "http://www.boroughmpls.com/parlour/",
+              "poi_type": "bar",
+              "scoop": "Artisan cocktails, great burger"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27811002731322,
+               44.988776972881574
+              ]
+            }
             }
   ]
 }
