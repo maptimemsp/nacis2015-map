@@ -88,6 +88,13 @@ var shopPin = L.MakiMarkers.icon({
 	size: "m"
 });
 
+//Nice Ride Icon
+var niceRidePin = L.MakiMarkers.icon({
+	icon: "bicycle",
+	color: "#A8CF38",
+	size: "s"
+});
+
 //LRT Station Icons
 var blueLRTPin = L.MakiMarkers.icon({
 	icon: "rail-light",
@@ -108,7 +115,7 @@ var railPin = L.MakiMarkers.icon({
 });
 
 //LRT Stations GeoJSON layer
-var lrtStations = new L.GeoJSON.AJAX("js/lrtStations.json",{
+var lrtStations = new L.GeoJSON.AJAX("js/transit/lrtStations.json",{
     pointToLayer: function (feature, latlng) {
 
 		var html = '';
@@ -148,13 +155,40 @@ function lrtLineColor(Name) {
 }
 
 //LRT Lines GeoJSON
-var lrtLines = new L.GeoJSON.AJAX("js/lrtLines.json",{
+var lrtLines = new L.GeoJSON.AJAX("js/transit/lrtLines.json",{
 	style: function (feature) {
 		return {
 			color: lrtLineColor(feature.properties.Name),
 			dashArray: [3, 10]
 		};
     }
+}).addTo(map);
+
+//Nice Ride Stations Layer
+var niceRideStations = new L.GeoJSON.AJAX("js/transit/niceRideStations.json", {
+	pointToLayer: function (feature, latlng) {
+		var html = "";
+	       if (feature.properties.Station) {
+	    	   html += "<h3><a href='http://www.niceridemn.org'>" + feature.properties.Station + "</a></h3>";
+	        }
+	       if (feature.properties.NB_Docks) {
+	    	   html += "<p>" + feature.properties.NB_Docks + " Bike docks</p>";
+	       }
+	       if (feature.properties.Notes) {
+	    	   html += "<p>" + feature.properties.Notes + "</p>";
+	       }
+        
+	html += "<div class='put'></div>";
+
+	var popup = new L.popup({
+		closeButton:false
+	}).setContent(html);
+
+	var niceRideMarker = new L.marker(latlng);
+	  	niceRideMarker.setIcon(niceRidePin);
+	  	niceRideMarker.bindPopup(popup);
+	return niceRideMarker;
+	}
 }).addTo(map);
 
 //POI GeoJSON Layer
