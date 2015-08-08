@@ -114,6 +114,16 @@ var railPin = L.MakiMarkers.icon({
 	size: "s"
 });
 
+//Fun Run Route layer
+var funRunRoute = new L.GeoJSON.AJAX("js/transit/funRun.json",{
+	style: function (feature) {
+		return {
+			color: "#CE576F",
+			dashArray: [1, 5]
+		};
+    }
+});
+
 //LRT Stations GeoJSON layer
 var lrtStations = new L.GeoJSON.AJAX("js/transit/lrtStations.json",{
     pointToLayer: function (feature, latlng) {
@@ -266,7 +276,8 @@ var lrt = L.layerGroup([lrtStations, lrtLines]).addTo(map);
 
 //Define the Overlay Layers for the legend
 var overlayMaps = {
-    "Nice Ride Stations": niceRideStations,
+    "Fun Run/Walk": funRunRoute,
+	"Nice Ride Stations": niceRideStations,
 	"Light Rail": lrt
 };
 
