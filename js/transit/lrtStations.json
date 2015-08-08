@@ -1,0 +1,736 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Coon Rapids - Riverdale Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.35150885082848,
+          45.19103054441251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Anoka Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.38407088487853,
+          45.207753113612775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Fridley Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27101006510455,
+          45.07885826961946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Big Lake Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7299721663779,
+          45.329763960102746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Elk River Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.54226928533767,
+          45.282617680835436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Nicollet Mall Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Green Line",
+        "StationID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26987028121947,
+          44.97854754595267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Government Plaza Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Green Line",
+        "StationID": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26584886218257,
+          44.97681185822303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Downtown East Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Green Line",
+        "StationID": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25992196798325,
+          44.97497288709934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Cedar-Riverside Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25102239847183,
+          44.96839030229528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Franklin Avenue Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2470136380404,
+          44.96252082825465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Lake Street Midtown Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23885321617126,
+          44.94834567470033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "38th Street Station (Hiawatha Ave)",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22941184043884,
+          44.93462109867694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "46th Street Station (Hiawatha Ave)",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2198705566557,
+          44.92073843102605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "50th Street Minnehaha Park Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20993900299072,
+          44.91227391243159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "VA Medical Center Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2023273226634,
+          44.902881899549214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Fort Snelling Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19811295895212,
+          44.89317331343875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Mall of America Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Red Line",
+        "StationID": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23876738548279,
+          44.85424120888342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Warehouse District/Hennepin Avenue Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Green Line",
+        "StationID": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27309429645537,
+          44.98004640771627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "28th Avenue Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Red Line",
+        "StationID": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23154317321034,
+          44.855856773437814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Airport Terminal 1 Lindbergh Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20559114217758,
+          44.88051293408275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Airport Terminal 2 Humphrey Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22407960891724,
+          44.874134303449466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Bloomington Central Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22641849517822,
+          44.856385978549646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Target Field Station",
+        "Name": "Existing - Shared",
+        "Type": "Light Rail",
+        "Transitway": "Blue / Green / Northstar Line",
+        "StationID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27744483947752,
+          44.982960538184074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "American Blvd 34th Ave Station",
+        "Name": "Hiawatha",
+        "Type": "Light Rail",
+        "Transitway": "Blue Line",
+        "StationID": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22312474250793,
+          44.858690376080126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Ramsey Station",
+        "Name": "Northstar",
+        "Type": "Commuter Rail",
+        "Transitway": "Northstar Line",
+        "StationID": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.46172776584282,
+          45.23188836685865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "West Bank Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24625074863434,
+          44.97192931826925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Prospect Park Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21524977684021,
+          44.97165227717584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Westgate Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20643067359924,
+          44.96746234186558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Raymond Avenue Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19541215896606,
+          44.96307472648845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Fairview Avenue Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1787619535457,
+          44.95641002651112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Snelling Avenue Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16695928573607,
+          44.955649934773696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Lexington Parkway Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.14661741256714,
+          44.95572965389742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Dale Street Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.12629967927933,
+          44.95571826545797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Capital / Rice Street Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.10509145259857,
+          44.95570877509001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Robert Street Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0974632501602,
+          44.95401377020156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "10th Street Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09750080108643,
+          44.9505894418643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Union Depot",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0867612361908,
+          44.94818621582761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Central Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09222489595413,
+          44.94617206026472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Western Avenue Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.11610996723175,
+          44.95575622691407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Victoria Street Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.13647329807281,
+          44.95571446931097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Hamline Avenue",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.15683204389892,
+          44.95569933744954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Stadium Village Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22277069091797,
+          44.97472621983021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "East Bank Station",
+        "Name": "Central Corridor",
+        "Type": "Light Rail",
+        "Transitway": "Green Line",
+        "StationID": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23108285665512,
+          44.973654153603384
+        ]
+      }
+    }
+  ]
+}
