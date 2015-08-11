@@ -114,6 +114,16 @@ var railPin = L.MakiMarkers.icon({
 	size: "s"
 });
 
+//Fun Run Route layer
+var funRunRoute = new L.GeoJSON.AJAX("js/transit/funRun.json",{
+	style: function (feature) {
+		return {
+			color: "#CE576F",
+			dashArray: [1, 5]
+		};
+    }
+});
+
 //LRT Stations GeoJSON layer
 var lrtStations = new L.GeoJSON.AJAX("js/transit/lrtStations.json",{
     pointToLayer: function (feature, latlng) {
@@ -144,7 +154,7 @@ var lrtStations = new L.GeoJSON.AJAX("js/transit/lrtStations.json",{
 		  	lrtMarker.bindPopup(popup);
 		return lrtMarker;
 	}
-}).addTo(map);
+});
 
 //LRT Lines GeoJSON Color
 function lrtLineColor(Name) {
@@ -162,7 +172,7 @@ var lrtLines = new L.GeoJSON.AJAX("js/transit/lrtLines.json",{
 			dashArray: [3, 10]
 		};
     }
-}).addTo(map);
+});
 
 //Nice Ride Stations Layer
 var niceRideStations = new L.GeoJSON.AJAX("js/transit/niceRideStations.json", {
@@ -256,3 +266,29 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 		});
 
 poiLayer.addTo(map);
+
+//Define the Basemap Layers for the legend
+var baseMaps = {
+};
+
+//Add the LRT Stations and Lines to a group (LRT) and add it to the map
+var lrt = L.layerGroup([lrtStations, lrtLines]).addTo(map);
+
+//Define the Overlay Layers for the legend
+var overlayMaps = {
+    "Fun Run/Walk": funRunRoute,
+	"Nice Ride Stations": niceRideStations,
+	"Light Rail": lrt
+};
+
+/* Larger screens get expanded layer control */
+if (document.body.clientWidth <= 767) {
+  isCollapsed = true;
+} else {
+  isCollapsed = false;
+}
+
+//Add the Legend to the map.
+L.control.layers(baseMaps, overlayMaps, {
+	collapsed: isCollapsed
+}).addTo(map);
