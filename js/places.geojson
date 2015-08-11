@@ -954,6 +954,107 @@
           44.973905
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mill City Museum",
+        "address": "704 South 2nd St, Mpls, MN 55401",
+        "poi_type": "museum",
+        "web": "http://www.millcitymuseum.org/",
+        "scoop": "Flour milling helped build Minneapolis, great museum with an even better view from the roof!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2572478055954,
+          44.978803683333574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Bros Coffee",
+        "address": "329 W 15th St, Minneapolis, MN 55403",
+        "poi_type": "cafe",
+        "web": "http://dunnbrothers-loringpark.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2837426662445,
+          44.96780012879039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dogwood Coffee Bar",
+        "address": "3001 Hennepin Ave, Minneapolis, MN 55408",
+        "poi_type": "cafe",
+        "web": "http://www.dogwoodcoffee.com/pages/coffee-bars",
+        "scoop": "Some of the best espresso in town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29807639122009,
+          44.94737372802589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spyhouse Coffee NE",
+        "address": "945 Broadway St NE, Minneapolis, MN 55413",
+        "poi_type": "cafe",
+        "web": "http://spyhousecoffee.com/pages/broadway",
+        "scoop": "Very good coffee, awesome space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24630975723267,
+          44.9988718094854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Constantine",
+        "address": "1115 2nd Ave S, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://constantinempls.com",
+        "scoop": "Artisan reinventions of late 20th century drinks.  They have an 'ice program'..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27289581298828,
+          44.971439751594374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Avenue",
+        "address": "701 First Avenue N, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://first-avenue.com/",
+        "scoop": "Rock and Roll pilgrimage destination. Take that selfie with the Husker Du star on the wall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27597230672835,
+          44.978557032542746
+        ]
+      }
     }
   ]
 }
