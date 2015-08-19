@@ -1039,6 +1039,26 @@
         ]
       }
     },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Afro Deli & Coffee",
+        "address": "1939 S 5th St, Minneapolis, MN 55454",
+        "poi_type": "cafe",
+        "web": "http://www.afrodeli.com/",
+        "scoop": "Compact counter serve featuring African & American eats & espresso in a bright, colorful interior."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24437856674194,
+          44.968646485045646
+        ]
+      }
+    },
+    
+    
     {
       "type": "Feature",
       "properties": {
