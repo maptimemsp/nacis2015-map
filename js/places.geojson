@@ -1092,6 +1092,23 @@
           44.970299
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foreign Legion",
+        "address": " 101 S 5th St Minneapolis, MN, 55402",
+        "poi_type": "bar",
+        "web": "http://foreignlegion-mn.com",
+        "scoop": "Quiet, swanky place for cocktails and conversation at a normal speaking volume."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26901197433472,
+          44.97794419560011
+        ]
+       }
     }
   ]
 }
