@@ -15,9 +15,8 @@ var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf
 });
 baselayer.addTo(map);
 
-var poiPins={}
 //POI Icons
-van confPin = L.MakiMarkers.icon({
+var confPin = L.MakiMarkers.icon({
     icon: "star",
     color: "#ff0000",
     size: "l"
