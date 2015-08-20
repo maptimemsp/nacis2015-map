@@ -15,103 +15,110 @@ var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf
 });
 baselayer.addTo(map);
 
+var poiPins={}
 //POI Icons
-var confPin = L.MakiMarkers.icon({
+poiPins['conf'] = L.MakiMarkers.icon({
     icon: "star",
     color: "#ff0000",
     size: "l"
 });
 
-var beerPin = L.MakiMarkers.icon({
+poiPins['beer'] = L.MakiMarkers.icon({
     icon: "beer",
     color: "#23344c",
     size: "m"
 });
 
-var barPin = L.MakiMarkers.icon({
+poiPins['bar'] = L.MakiMarkers.icon({
     icon: "bar",
     color: "#23344c",
     size: "m"
 });
 
-var restaurantPin = L.MakiMarkers.icon({
+poiPins['restaurant'] = L.MakiMarkers.icon({
     icon: "restaurant",
     color: "#23344c",
     size: "m"
 });
 
-var cafePin = L.MakiMarkers.icon({
+poiPins['cafe'] = L.MakiMarkers.icon({
     icon: "cafe",
     color: "#23344c",
     size: "m"
 });
 
-var hotelPin = L.MakiMarkers.icon({
+poiPins['hotel'] = L.MakiMarkers.icon({
 	icon: "lodging",
 	color: "#23344c",
 	size: "m"
 });
 
-var airportPin = L.MakiMarkers.icon({
+poiPins['airport'] = L.MakiMarkers.icon({
 	icon: "airport",
 	color: "#23344c",
 	size: "m"
 });
 
-var icecreamPin = L.MakiMarkers.icon({
+poiPins['icecream'] = L.MakiMarkers.icon({
 	icon: "ice-cream",
 	color: "#23344c",
 	size: "m"
 });
 
-var museumPin = L.MakiMarkers.icon({
+poiPins['museum'] = L.MakiMarkers.icon({
 	icon: "museum",
 	color: "#23344c",
 	size: "m"
 });
 
-var parkPin = L.MakiMarkers.icon({
+poiPins['park'] = L.MakiMarkers.icon({
 	icon: "park",
 	color: "#23344c",
 	size: "m"
 });
 
-var theatrePin = L.MakiMarkers.icon({
+poiPins['theatre'] = L.MakiMarkers.icon({
 	icon: "theatre",
 	color: "#23344c",
 	size: "m"
 });
 
-var shopPin = L.MakiMarkers.icon({
+poiPins['shop'] = L.MakiMarkers.icon({
 	icon: "shop",
 	color: "#23344c",
 	size: "m"
 });
 
 //Nice Ride Icon
-var niceRidePin = L.MakiMarkers.icon({
+poiPins['niceRide'] = L.MakiMarkers.icon({
 	icon: "bicycle",
 	color: "#A8CF38",
 	size: "s"
 });
 
 //LRT Station Icons
-var blueLRTPin = L.MakiMarkers.icon({
+poiPins['blueLRT'] = L.MakiMarkers.icon({
 	icon: "rail-light",
 	color: "#0000FF",
 	size: "s"
 });
 
-var greenLRTPin = L.MakiMarkers.icon({
+poiPins['greenLRT'] = L.MakiMarkers.icon({
 	icon: "rail-light",
 	color: "#008000",
 	size: "s"
 });
 
-var railPin = L.MakiMarkers.icon({
+poiPins['rail'] = L.MakiMarkers.icon({
 	icon: "rail",
 	color: "#FFA500",
 	size: "s"
+});
+
+poiPins['cinema'] = L.MakiMarkers.icon({
+	icon: "cinema",
+	color: "#23344c",
+	size: "m"
 });
 
 var defaultPin = L.MakiMarkers.icon({
@@ -229,43 +236,9 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 
       var marker = new L.marker(latlng);
       marker.setIcon(defaultPin);
-      if (feature.properties.poi_type === 'conf') {
-          marker.setIcon(confPin);
-         }
-      if (feature.properties.poi_type === 'beer') {
-          marker.setIcon(beerPin);
-         }
-      if (feature.properties.poi_type === 'bar') {
-          marker.setIcon(barPin);
-         }
-      if (feature.properties.poi_type === 'restaurant') {
-          marker.setIcon(restaurantPin);
-         }
-      if (feature.properties.poi_type === 'cafe') {
-          marker.setIcon(cafePin);
-         }
-      if (feature.properties.poi_type === 'hotel') {
-          marker.setIcon(hotelPin);
-         }
-      if (feature.properties.poi_type === 'airport') {
-          marker.setIcon(airportPin);
-         }
-      if (feature.properties.poi_type === 'ice-cream') {
-    	  marker.setIcon(icecreamPin);
-      	 }
-      if (feature.properties.poi_type === 'museum') {
-          marker.setIcon(museumPin);
-         }
-      if (feature.properties.poi_type === 'park') {
-          marker.setIcon(parkPin);
-         }
-      if (feature.properties.poi_type === 'theatre') {
-      	  marker.setIcon(theatrePin);
-      	 }
-      if (feature.properties.poi_type === 'shop') {
-      	  marker.setIcon(shopPin);
-      	 }
-
+      if (feature.properties.poi_type in poiPins){
+		marker.setIcon(poiPins[feature.properties.poi_type]);
+	  }
 	marker.bindPopup(popup);
 
 		  return marker;
