@@ -1099,6 +1099,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Saint Anthony Main Theaters",
+        "address": "115 SE Main St, Minneapolis, MN 55414",
+        "poi_type": "theatre",
+        "web": "www.stanthonymaintheatre.com",
+        "scoop": "Convenient theater in the relaxing Saint Anthony Main area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25588792562485,
+          44.9848709586976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Acadia Cafe",
         "address": "329 Cedar Ave, Minneapolis, MN 55454",
         "poi_type": "bar",
