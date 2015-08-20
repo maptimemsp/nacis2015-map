@@ -59,7 +59,7 @@ poiPins['airport'] = L.MakiMarkers.icon({
 	size: "m"
 });
 
-poiPins['icecream'] = L.MakiMarkers.icon({
+poiPins['ice-cream'] = L.MakiMarkers.icon({
 	icon: "ice-cream",
 	color: "#23344c",
 	size: "m"
@@ -96,25 +96,6 @@ poiPins['niceRide'] = L.MakiMarkers.icon({
 	size: "s"
 });
 
-//LRT Station Icons
-poiPins['blueLRT'] = L.MakiMarkers.icon({
-	icon: "rail-light",
-	color: "#0000FF",
-	size: "s"
-});
-
-poiPins['greenLRT'] = L.MakiMarkers.icon({
-	icon: "rail-light",
-	color: "#008000",
-	size: "s"
-});
-
-poiPins['rail'] = L.MakiMarkers.icon({
-	icon: "rail",
-	color: "#FFA500",
-	size: "s"
-});
-
 poiPins['cinema'] = L.MakiMarkers.icon({
 	icon: "cinema",
 	color: "#23344c",
@@ -126,6 +107,27 @@ var defaultPin = L.MakiMarkers.icon({
 	color: "#000000",
 	size: "s"
 });
+
+//LRT Station Icons
+lrtPins={};
+lrtPins['blueLRT'] = L.MakiMarkers.icon({
+	icon: "rail-light",
+	color: "#0000FF",
+	size: "s"
+});
+
+lrtPins['greenLRT'] = L.MakiMarkers.icon({
+	icon: "rail-light",
+	color: "#008000",
+	size: "s"
+});
+
+lrtPins['rail'] = L.MakiMarkers.icon({
+	icon: "rail",
+	color: "#FFA500",
+	size: "s"
+});
+
 
 //Fun Run Route layer
 var funRunRoute = new L.GeoJSON.AJAX("js/transit/funRun.json",{
@@ -156,13 +158,13 @@ var lrtStations = new L.GeoJSON.AJAX("js/transit/lrtStations.json",{
 
 		var lrtMarker = new L.marker(latlng);
 		      if (feature.properties.Transitway === 'Northstar Line') {
-		          lrtMarker.setIcon(railPin);
+		          lrtMarker.setIcon(lrtPins['rail']);
 		         }
 		      if (feature.properties.Transitway === 'Green Line') {
-		          lrtMarker.setIcon(greenLRTPin);
+		          lrtMarker.setIcon(lrtPins['greenLRT']);
 		         }
 		      if (feature.properties.Transitway.match(/Blue*/)) {
-		          lrtMarker.setIcon(blueLRTPin);
+		          lrtMarker.setIcon(lrtPins['blueLRT']);
 		         }
 		  	lrtMarker.bindPopup(popup);
 		return lrtMarker;
@@ -208,7 +210,7 @@ var niceRideStations = new L.GeoJSON.AJAX("js/transit/niceRideStations.json", {
 	}).setContent(html);
 
 	var niceRideMarker = new L.marker(latlng);
-	  	niceRideMarker.setIcon(niceRidePin);
+	  	niceRideMarker.setIcon(poiPins['niceRide']);
 	  	niceRideMarker.bindPopup(popup);
 	return niceRideMarker;
 	}
