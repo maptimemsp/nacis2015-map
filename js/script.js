@@ -15,8 +15,8 @@ var baselayer = new L.tileLayer('https://{s}.tiles.mapbox.com/v4/flatlandmaps.bf
 });
 baselayer.addTo(map);
 
-var poiPins={}
 //POI Icons
+var poiPins={};
 poiPins['conf'] = L.MakiMarkers.icon({
     icon: "star",
     color: "#ff0000",
@@ -128,7 +128,6 @@ lrtPins['rail'] = L.MakiMarkers.icon({
 	size: "s"
 });
 
-
 //Fun Run Route layer
 var funRunRoute = new L.GeoJSON.AJAX("js/transit/funRun.json",{
 	style: function (feature) {
@@ -238,9 +237,10 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 
       var marker = new L.marker(latlng);
       marker.setIcon(defaultPin);
-      if (feature.properties.poi_type in poiPins){
-		marker.setIcon(poiPins[feature.properties.poi_type]);
-	  }
+      if (feature.properties.poi_type in poiPins) {
+        marker.setIcon(poiPins[feature.properties.poi_type]);
+      }
+      
 	marker.bindPopup(popup);
 
 		  return marker;
