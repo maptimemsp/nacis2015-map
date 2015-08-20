@@ -114,6 +114,12 @@ var railPin = L.MakiMarkers.icon({
 	size: "s"
 });
 
+var defaultPin = L.MakiMarkers.icon({
+	icon: "marker",
+	color: "#000000",
+	size: "s"
+});
+
 //Fun Run Route layer
 var funRunRoute = new L.GeoJSON.AJAX("js/transit/funRun.json",{
 	style: function (feature) {
@@ -222,6 +228,7 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
       var popup = new L.popup({closeButton:false}).setContent(html);
 
       var marker = new L.marker(latlng);
+      marker.setIcon(defaultPin);
       if (feature.properties.poi_type === 'conf') {
           marker.setIcon(confPin);
          }
