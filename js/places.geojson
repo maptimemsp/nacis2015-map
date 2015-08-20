@@ -35,6 +35,26 @@
         ]
       }
     },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Szechuan",
+        "address": "304 SE Oak St",
+        "web": "http://littleszechuan.com/",
+        "poi_type": "restaurant",
+        "scoop": "Rated by CNN as a top 50 Chinese restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22733849287033,
+          44.97348717511289
+        ]
+      }
+    },
+
+    
     {
       "type": "Feature",
       "properties": {
