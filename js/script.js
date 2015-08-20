@@ -17,105 +17,105 @@ baselayer.addTo(map);
 
 var poiPins={}
 //POI Icons
-poiPins['conf'] = L.MakiMarkers.icon({
+van confPin = L.MakiMarkers.icon({
     icon: "star",
     color: "#ff0000",
     size: "l"
 });
 
-poiPins['beer'] = L.MakiMarkers.icon({
+var beerPin = L.MakiMarkers.icon({
     icon: "beer",
     color: "#23344c",
     size: "m"
 });
 
-poiPins['bar'] = L.MakiMarkers.icon({
+var barPin = L.MakiMarkers.icon({
     icon: "bar",
     color: "#23344c",
     size: "m"
 });
 
-poiPins['restaurant'] = L.MakiMarkers.icon({
+var restaurantPin = L.MakiMarkers.icon({
     icon: "restaurant",
     color: "#23344c",
     size: "m"
 });
 
-poiPins['cafe'] = L.MakiMarkers.icon({
+var cafePin = L.MakiMarkers.icon({
     icon: "cafe",
     color: "#23344c",
     size: "m"
 });
 
-poiPins['hotel'] = L.MakiMarkers.icon({
+var hotelPin = L.MakiMarkers.icon({
 	icon: "lodging",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['airport'] = L.MakiMarkers.icon({
+var airportPin = L.MakiMarkers.icon({
 	icon: "airport",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['icecream'] = L.MakiMarkers.icon({
+var icecreamPin = L.MakiMarkers.icon({
 	icon: "ice-cream",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['museum'] = L.MakiMarkers.icon({
+var museumPin = L.MakiMarkers.icon({
 	icon: "museum",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['park'] = L.MakiMarkers.icon({
+var parkPin = L.MakiMarkers.icon({
 	icon: "park",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['theatre'] = L.MakiMarkers.icon({
+var theatrePin = L.MakiMarkers.icon({
 	icon: "theatre",
 	color: "#23344c",
 	size: "m"
 });
 
-poiPins['shop'] = L.MakiMarkers.icon({
+var shopPin = L.MakiMarkers.icon({
 	icon: "shop",
 	color: "#23344c",
 	size: "m"
 });
 
 //Nice Ride Icon
-poiPins['niceRide'] = L.MakiMarkers.icon({
+var niceRidePin = L.MakiMarkers.icon({
 	icon: "bicycle",
 	color: "#A8CF38",
 	size: "s"
 });
 
 //LRT Station Icons
-poiPins['blueLRT'] = L.MakiMarkers.icon({
+var blueLRTPin = L.MakiMarkers.icon({
 	icon: "rail-light",
 	color: "#0000FF",
 	size: "s"
 });
 
-poiPins['greenLRT'] = L.MakiMarkers.icon({
+var greenLRTPin = L.MakiMarkers.icon({
 	icon: "rail-light",
 	color: "#008000",
 	size: "s"
 });
 
-poiPins['rail'] = L.MakiMarkers.icon({
+var railPin = L.MakiMarkers.icon({
 	icon: "rail",
 	color: "#FFA500",
 	size: "s"
 });
 
-poiPins['cinema'] = L.MakiMarkers.icon({
+var cinemaPin = L.MakiMarkers.icon({
 	icon: "cinema",
 	color: "#23344c",
 	size: "m"
@@ -236,9 +236,43 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
 
       var marker = new L.marker(latlng);
       marker.setIcon(defaultPin);
-      if (feature.properties.poi_type in poiPins){
-		marker.setIcon(poiPins[feature.properties.poi_type]);
-	  }
+	if (feature.properties.poi_type === 'conf') {
+          marker.setIcon(confPin);
+         }
+      	if (feature.properties.poi_type === 'beer') {
+          marker.setIcon(beerPin);
+         }
+      	if (feature.properties.poi_type === 'bar') {
+          marker.setIcon(barPin);
+         }
+      	if (feature.properties.poi_type === 'restaurant') {
+          marker.setIcon(restaurantPin);
+         }
+      	if (feature.properties.poi_type === 'cafe') {
+          marker.setIcon(cafePin);
+         }
+      	if (feature.properties.poi_type === 'hotel') {
+          marker.setIcon(hotelPin);
+         }
+      	if (feature.properties.poi_type === 'airport') {
+          marker.setIcon(airportPin);
+         }
+      	if (feature.properties.poi_type === 'ice-cream') {
+    	  marker.setIcon(icecreamPin);
+      	 }
+      if (feature.properties.poi_type === 'museum') {
+          marker.setIcon(museumPin);
+         }
+      	if (feature.properties.poi_type === 'park') {
+          marker.setIcon(parkPin);
+         }
+      	if (feature.properties.poi_type === 'theatre') {
+      	  marker.setIcon(theatrePin);
+      	 }
+      	if (feature.properties.poi_type === 'shop') {
+      	  marker.setIcon(shopPin);
+      	 }
+	
 	marker.bindPopup(popup);
 
 		  return marker;
