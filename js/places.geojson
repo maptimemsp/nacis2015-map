@@ -35,7 +35,7 @@
         ]
       }
     },
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -54,7 +54,7 @@
       }
     },
 
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -1059,7 +1059,7 @@
         ]
       }
     },
-    
+
     {
       "type": "Feature",
       "properties": {
@@ -1077,8 +1077,8 @@
         ]
       }
     },
-    
-    
+
+
     {
       "type": "Feature",
       "properties": {
@@ -1134,7 +1134,7 @@
       "type": "Feature",
       "properties": {
         "title": "Foreign Legion",
-        "address": " 101 S 5th St Minneapolis, MN, 55402",
+        "address": "101 S 5th St Minneapolis, MN, 55402",
         "poi_type": "bar",
         "web": "http://foreignlegion-mn.com",
         "scoop": "Quiet, swanky place for cocktails and conversation at a normal speaking volume."
@@ -1144,6 +1144,125 @@
         "coordinates": [
           -93.26901197433472,
           44.97794419560011
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spyhouse Coffee",
+        "address": "2404 Hennepin Ave S, Minneapolis, MN 55405",
+        "poi_type": "cafe",
+        "web": "http://spyhousecoffee.com/pages/hennepin",
+        "scoop": "Great coffee on Hennepin Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29451978206635,
+          44.95895818533998
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tattersall Distilling",
+        "address": "1620 Central Ave NE Ste 150 Minneapolis, MN 55413",
+        "poi_type": "bar",
+        "web": "http://www.tattersalldistilling.com",
+        "scoop": "Distillery cocktail room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24919581413269,
+          45.00505833317941
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blackbird",
+        "address": "3800 Nicollet Ave, Minneapolis, MN",
+        "poi_type": "restaurant",
+        "web": "http://www.blackbirdmpls.com/",
+        "scoop": "Great neighborhood restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27812612056732,
+          44.9339963995794
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradstreet Neighborhood Crafthouse",
+        "address": "1930 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://www.bradstreetcraftshouse.com/",
+        "scoop": "Craft cocktails and food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29121530056,
+          44.96323414399464
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sebastian Joe's Ice Cream",
+        "address": "1930 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "ice-cream",
+        "web": "http://sebastianjoesicecream.com/",
+        "scoop": "The original craft ice cream in Mpls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2922238111496,
+          44.962573697156465
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gay 90s",
+        "address": "408 Hennepin Avenue N, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://www.gay90s.com/",
+        "scoop": "Minneapolis institution since the 1920s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27174246311186,
+          44.9804543190084
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Saloon",
+        "address": "830 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://saloonmn.com/",
+        "scoop": "Proudly serving the Twin Cities LGBTQ community for 35 years. Dance oriented."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27696472406387,
+          44.976672964958354
         ]
        }
     }
