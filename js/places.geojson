@@ -61,7 +61,7 @@
         "title": "Cafe Racer Kitchen",
         "address": "2929 EAST 25TH ST.",
         "web": "http://www.caferacermn.com/",
-        "poi_type": "cafe",
+        "poi_type": "restaurant",
         "scoop": "upscale food at a good price and old motorcycles"
       },
       "geometry": {
@@ -78,7 +78,7 @@
         "title": "Nye's Polonaise Room",
         "address": "112 East Hennepin Avenue",
         "web": "http://www.nyespolonaise.com/",
-        "poi_type": "restaurant",
+        "poi_type": "bar",
         "scoop": "polka and pierogi, voted the best bar in America"
       },
       "geometry": {
@@ -1265,6 +1265,125 @@
           44.976672964958354
         ]
        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seward Community Coop",
+        "address": "2823 E Franklin Ave Minneapolis 55406",
+        "web": "http://seward.coop/",
+        "poi_type": "grocery",
+        "scoop": "Great Co-op with deli and bakery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23029160499573,
+          44.96264201959577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sober Fish",
+        "address": "2627 E Franklin Ave, Minneapolis 55406",
+        "web": "http://www.soberfishrestaurant.com/",
+        "poi_type": "restaurant",
+        "scoop": "The Thai and Sushi combo could go wrong, but it works."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2332044839859,
+          44.962651508817
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Birchwood Cafe",
+        "address": "3311 East 25th Street, Minneapolis MN 55406",
+        "web": "http://www.soberfishrestaurant.com/",
+        "poi_type": "restaurant",
+        "scoop": "Neighborhood favorite!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22340369224548,
+          44.9572670724775
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "One on One Bicycle Studio",
+        "address": "117 Washington Ave N, Minneapolis, MN 55401",
+        "web": "http://www.oneononebike.com/",
+        "poi_type": "bicycle",
+        "scoop": "Awesome bike shop with rentals and coffee!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27099680900572,
+          44.983233730321366
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Moose & Sadie's",
+        "address": "212 3rd Ave N, Minneapolis, MN 55401",
+        "web": "http://www.mooseandsadies.com/",
+        "poi_type": "restaurant",
+        "scoop": "Neighborhood cafe with fresh, local, and organic ingredients."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27166199684142,
+          44.98532057174826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brit's Pub",
+        "address": "1110 Nicollet Mall, Minneapolis MN 55403",
+        "web": "http://www.britspub.com/",
+        "poi_type": "bar",
+        "scoop": "MSP's most Brittish pub. Rooftop lawn bowling in good weather."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27608495950699,
+          44.97265796790711
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Barrio",
+        "address": "925 Nicollet Mall, Minneapolis MN 55402",
+        "web": "http://barriotequila.com/",
+        "poi_type": "bar",
+        "scoop": "Excellent guac, Tequila flights (and horrible Flash-based Web site)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27417254447937,
+          44.97432585761943
+        ]
+      }
     }
   ]
 }
