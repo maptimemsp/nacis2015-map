@@ -1435,6 +1435,57 @@
           44.98270252219237
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Sea Salt Eatery",
+        "address": "4801 Minnehaha Ave S, Minneapolis",
+        "web": "https://seasalteatery.wordpress.com/",
+        "poi_type": "restaurant",
+        "scoop": "Awesome, fresh sea food, and great selection of beer and wine near Minnehaha Falls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21088314056396,
+          44.91617347389462
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Tin Fish",
+        "address": "4801 Minnehaha Ave S, Minneapolis",
+        "web": "http://www.thetinfishrestaurants.com/the-tin-fish-restaurants-minneapolis-mn-lake-calhoun/",
+        "poi_type": "restaurant",
+        "scoop": "Awesome setting on Lake Calhoun.  Fried fish with good beer and wine menu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30646634101868,
+          44.94805143476832
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bread and Pickle",
+        "address": "4135 W Lake Harriet Pkwy, Minneapolis, MN 55410",
+        "web": "http://www.breadandpickle.com/about-us",
+        "poi_type": "restaurant",
+        "scoop": "Good food, beer, wine, and ice cream on Lake Harriet.  Locally owned."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30826073884964,
+          44.92791614646
+        ]
+      }
     }
   ]
 }
