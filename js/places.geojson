@@ -1384,6 +1384,23 @@
           44.97432585761943
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Electric Fetus",
+        "address": "2000 4th Ave S, Minneapolis, MN 55404",
+        "web": "http://www.electricfetus.com/",
+        "poi_type": "music",
+        "scoop": "Vinyl.  'widely regarded as the pre-eminent indie record store in Minnesota' - MPR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27037453651427,
+           44.96238770788173
+        ]
+      }
     }
   ]
 }

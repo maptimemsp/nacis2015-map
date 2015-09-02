@@ -83,6 +83,18 @@ poiPins['theatre'] = L.MakiMarkers.icon({
 	size: "m"
 });
 
+poiPins['bicycle'] = L.MakiMarkers.icon({
+	icon: "bicycle",
+	color: "#23344c",
+	size: "m"
+});
+
+poiPins['music'] = L.MakiMarkers.icon({
+	icon: "music",
+	color: "#23344c",
+	size: "m"
+});
+
 poiPins['shop'] = L.MakiMarkers.icon({
 	icon: "shop",
 	color: "#23344c",
@@ -201,7 +213,7 @@ var niceRideStations = new L.GeoJSON.AJAX("js/transit/niceRideStations.json", {
 	       if (feature.properties.Notes) {
 	    	   html += "<p>" + feature.properties.Notes + "</p>";
 	       }
-        
+
 	html += "<div class='put'></div>";
 
 	var popup = new L.popup({
@@ -240,7 +252,7 @@ var poiLayer = new L.GeoJSON.AJAX("js/places.geojson",{
       if (feature.properties.poi_type in poiPins) {
         marker.setIcon(poiPins[feature.properties.poi_type]);
       }
-      
+
 	marker.bindPopup(popup);
 
 		  return marker;
