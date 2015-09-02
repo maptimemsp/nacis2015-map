@@ -1401,6 +1401,40 @@
            44.96238770788173
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Lunds and Byerly's",
+        "address": "1201 Hennepin Ave, Minneapolis, MN 55403",
+        "web": "http://lundsandbyerlys.com/our-stores/locations/downtown-minneapolis/",
+        "poi_type": "grocery",
+        "scoop": "Upscale groceries downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28062593936919,
+          44.97450232092885
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods Market",
+        "address": "222 Hennepin Ave, Minneapolis, MN 55403",
+        "web": "http://www.wholefoodsmarket.com/stores/hennepin/",
+        "poi_type": "grocery",
+        "scoop": "Upscale groceries downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26948136091232,
+          44.98270252219237
+        ]
+      }
     }
   ]
 }
