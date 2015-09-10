@@ -1486,6 +1486,189 @@
           44.92791614646
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Anchor Fish and Chips",
+        "address": "302 13th Ave NE., Minneapolis, MN 55413",
+        "web": "http://www.theanchorfishandchips.com/",
+        "poi_type": "restaurant",
+        "scoop": "Best fish and chips in town, carry out and over to Dangerous Man Brewing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26446294784546,
+          45.000760837291146
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Masu Sushi & Robata",
+        "address": "330 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://masusushiandrobata.com/",
+        "poi_type": "restaurant",
+        "scoop": "Sushi, Ramen, Izakaya, Noodles, more..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25504034757614,
+          44.98826099209385
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Nighthawks",
+        "address": "3753 Nicollet Ave S, Minneapolis 55401",
+        "web": "http://nighthawksmpls.com/",
+        "poi_type": "restaurant",
+        "scoop": "Modern Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27775061130524,
+          44.93424324198018
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Hola Arepa",
+        "address": "3501 Nicollet Ave S, Minneapolis 55408",
+        "web": "http://holaarepa.com/",
+        "poi_type": "restaurant",
+        "scoop": "Hand-made, fresh Arepas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27782034873962,
+          44.93944567342283
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Jasmine Deli",
+        "address": "2532 Nicollet Ave S, Minneapolis 55404",
+        "web": "http://www.jasminedelimpls.com/",
+        "poi_type": "restaurant",
+        "scoop": "Vietnamese, great Bahn Mi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27806442975998,
+          44.95643763078006
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "moto-i Ramen and Sake House",
+        "address": "2940 Lyndale Ave S, Minneapolis MN 55408",
+        "web": "http://www.moto-i.com",
+        "poi_type": "restaurant",
+        "scoop": "Sake Brewery, great Ramen, rooftop dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28834801912308,
+          44.948658896196335
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bulldog NE",
+        "address": "401 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://www.thebulldognortheast.com/",
+        "poi_type": "bar",
+        "scoop": "Great beer selection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25491696596146,
+          44.98872385742672
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic",
+        "address": "221 Cedar Ave S, Minneapolis, MN 55454",
+        "web": "http://www.republicmn.com/",
+        "poi_type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24675500392914,
+          44.97356117700389
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bun Mi",
+        "address": "604 Washington Ave SE Minneapolis, MN 55414",
+        "web": "http://www.bunmisandwiches.com/",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22975248098373,
+          44.9735346122335
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Punch Pizza",
+        "address": "802 Washington Ave SE, Minneapolis MN 55414",
+        "web": "http://www.punchpizza.com",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22674036026001,
+          44.97347958516994
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Loring Pasta Bar",
+        "address": "327 14th Ave SE, Minneapolis 55414",
+        "web": "http://loringpastabar.com",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23614150285721,
+          44.980344278108475
+        ]
+      }
     }
   ]
 }
