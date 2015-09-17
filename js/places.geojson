@@ -1669,6 +1669,118 @@
           44.980344278108475
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bob Dylan Mural",
+        "web": "http://www.mprnews.org/story/2015/08/31/bob-dylan-mural-minneapolis",
+        "poi_type": "sight",
+        "scoop": "Recently completed 5 story tribute to Bob Dylan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27208578586577,
+          44.9790958682821
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Music Notes Mural",
+        "poi_type": "sight",
+        "scoop": "Maurice Ravel’s “Gaspard de la Nuit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27357172966003,
+          44.97388374823397
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Van Gogh's Olive Trees in crop art!",
+        "poi_type": "sight",
+        "web": "http://www.mprnews.org/story/2015/09/11/van-gogh-crop-art#gallery",
+        "scoop": "Get a left-side seat and look out the window just before landing at MSP."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1253045797348,
+          44.832694011919884
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Brothers Coffee",
+        "address": "901 Nicollet Mall, Minneapolis 55402",
+        "poi_type": "cafe",
+        "web": "http://dunnbrothers-nicollet9th.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27384531497955,
+          44.974745194273204
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Museum of Russian Art",
+        "address": "5500 Stevens Ave S, Minneapolis, MN 55419",
+        "poi_type": "museum",
+        "web": "http://tmora.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27579528093338,
+          44.90338921810717
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Weisman Art Museum",
+        "address": "333 East River Road, Minneapolis",
+        "poi_type": "museum",
+        "web": "http://www.weisman.umn.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23725461959839,
+          44.97322342400674
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "American Swedish Institute",
+        "address": "2600 Park Avenue Minneapolis MN 55407",
+        "poi_type": "museum",
+        "scoop": "Swedish culture, exhibits and cafe in a historica mansion.",
+        "web": "http://www.asimn.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26566457748413,
+          44.9551184711186
+        ]
+      }
     }
   ]
 }
