@@ -113,6 +113,12 @@ poiPins['sight'] = L.MakiMarkers.icon({
   size: "m"
 });
 
+poiPins['bakery'] = L.MakiMarkers.icon({
+  icon: "bakery",
+  color: "#23344c",
+  size: "m"
+});
+
 //Nice Ride Icon
 poiPins['niceRide'] = L.MakiMarkers.icon({
 	icon: "bicycle",
