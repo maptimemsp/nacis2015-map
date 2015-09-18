@@ -1781,6 +1781,188 @@
           44.9551184711186
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bakken Museum",
+        "address": "3537 Zenith Avenue S, Minneapolis, MN 55416",
+        "poi_type": "museum",
+        "scoop": "Explore the history and nature of electricity and magnetism.",
+        "web": "http://www.thebakken.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32111120223999,
+          44.93819257609555
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Walker Art Center",
+        "address": "1750 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "museum",
+        "scoop": "Modern Art. Visual, media, and performing.",
+        "web": "http://www.walkerart.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28861892223358,
+          44.96800887252476
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Minnesota History Center",
+        "address": "345 W Kellogg Blvd, St Paul, MN 55102",
+        "poi_type": "museum",
+        "web": "http://www.minnesotahistorycenter.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.10545086860657,
+          44.94962132973452
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Science Museum of Minnesota",
+        "address": "120 W Kellogg Blvd, Saint Paul, MN 55102",
+        "poi_type": "museum",
+        "web": "http://www.smm.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09884190559387,
+          44.94251374778669
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bell Museum",
+        "address": "10 Church Street SE, Minneapolis, MN 55455",
+        "poi_type": "museum",
+        "web": "http://www.bellmuseum.umn.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23323667049408,
+          44.97781517646179
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Angel Food Bakery and Coffee Shop",
+        "address": "86 S 9th St, Minneapolis, MN 55402",
+        "poi_type": "bakery",
+        "scoop": "Small batch, from scratch...",
+        "web": "http://www.angelfoodmn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27289044857024,
+          44.974745194273204
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Glam Doll Donuts",
+        "address": "2605 Niccollet Ave Minneapolis, MN 55408",
+        "poi_type": "bakery",
+        "web": "http://www.glamdolldonuts.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2776728272438,
+          44.95517921007116
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bogart's Donuts",
+        "address": "904 West 36th St, Minneapolis, MN 55408",
+        "poi_type": "bakery",
+        "scoop": "Fresh donuts, Kosher to boot.",
+        "web": "http://www.bogartsdoughnutco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29107582569122,
+          44.937820438895386
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Sarah Jane's Bakery",
+        "address": "2853 Johnson St NE, Minneapolis, MN 55418",
+        "poi_type": "bakery",
+        "scoop": "Old fashioned bakery (including donuts).",
+        "web": "http://www.sarahjanesbakery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23693811893463,
+          45.020208890654246
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Spoon River",
+        "address": "750 South 2nd St, Minneapolis, MN 55401",
+        "web": "http://spoonriver.com/",
+        "poi_type": "restaurant",
+        "scoop": "Brenda Langdon has been doing local and organic in Minnesota since 1978."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2565101981163,
+          44.97833504592381
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "112 Eatery",
+        "address": "112 N 3rd St, Minneapolis, MN 55401",
+        "web": "http://www.112eatery.com/",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27176392078398,
+          44.982565925020786
+        ]
+      }
     }
   ]
 }
