@@ -1980,6 +1980,23 @@
           44.9702
        ]
      }
-   }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+      "title": "Caribou Coffee",
+      "address": "501 S Washington Ave, Minneapolis, MN 55415",
+      "web": "http://www.cariboucoffee.com",
+      "poi_type": "cafe",
+      "scoop": "Eco-conscious coffee chain offering java drinks, smoothies & teas alongside light fare & pastries."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2610,
+         44.9784
+      ]
+    }
+  }
   ]
 }
