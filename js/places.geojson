@@ -1963,6 +1963,23 @@
           44.982565925020786
         ]
       }
-    }
+    },
+    {
+     "type": "Feature",
+     "properties": {
+       "title": "Segue Cafe",
+       "address": "609 S 10th St, Minneapolis, MN 55404",
+       "web": "http://www.seguecafe.com",
+       "poi_type": "cafe",
+       "scoop": "Pastries, lunch fare, & espresso drinks. Artwork & live music by local artists."
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         -93.2663,
+          44.9702
+       ]
+     }
+   }
   ]
 }
