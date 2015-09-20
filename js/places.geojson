@@ -1997,6 +1997,23 @@
          44.9784
       ]
     }
-  }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+     "title": "Wilde Roast Coffee",
+     "address": "65 SE Main St, Minneapolis, MN 55414",
+     "web": "http://www.wilderoastcafe.com",
+     "poi_type": "cafe",
+     "scoop": "Long-standing comfy cafe in a Victorian-styled space."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.2576,
+       44.9857
+     ]
+   }
+ }
   ]
 }
