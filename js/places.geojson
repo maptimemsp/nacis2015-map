@@ -2030,6 +2030,23 @@
        45.0012
      ]
    }
+ },
+   {
+   "type": "Feature",
+   "properties": {
+     "title": "The Bachelor Farmer",
+     "address": "50 N 2nd Ave, Minneapolis, MN 55401",
+     "web": "http://thebachelorfarmer.com",
+     "poi_type": "restaurant",
+     "scoop": "Quintesential MN restaurant, Nordic cuisine, POTUS ate here when he was in town."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.26885640621185,
+       44.98571326886948
+     ]
+   }
  }
   ]
 }
