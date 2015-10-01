@@ -2014,6 +2014,22 @@
        44.9857
      ]
    }
+ },
+   {
+   "type": "Feature",
+   "properties": {
+     "title": "Matchbox Coffee Shop",
+     "address": "1306 2nd Ave St SE, Minneapolis, MN 55413",
+     "poi_type": "cafe",
+     "scoop": "Great coffee, cash only."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.2663,
+       45.0012
+     ]
+   }
  }
   ]
 }
