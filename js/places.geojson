@@ -2057,6 +2057,23 @@
     }
   },
   {
+    "type": "Feature",
+    "properties": {
+      "title": "Matt's Bar",
+      "address": "3500 Cedar Ave., Minneapolis, MN 55407",
+      "web": "mattsbar.com",
+      "poi_type": "bar",
+      "scoop": "Minneapolis icon/dive bar. Home of the original Juicy Lucy stuffed cheese burger"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2478,
+         44.9394
+      ]
+    }
+  },
+  {
    "type": "Feature",
    "properties": {
      "title": "Wilde Roast Coffee",
