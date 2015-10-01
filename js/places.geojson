@@ -2074,6 +2074,23 @@
     }
   },
   {
+    "type": "Feature",
+    "properties": {
+      "title": "5-8 Club",
+      "address": "5800 Cedar Ave., Minneapolis, MN 55407",
+      "web": "http://www.5-8club.com",
+      "poi_type": "bar",
+      "scoop": "Old speakeasy turned burger bar serving up their genuine Juicy Lucy stuffed cheese burger"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2482,
+         44.8972
+      ]
+    }
+  },
+  {
    "type": "Feature",
    "properties": {
      "title": "Wilde Roast Coffee",
