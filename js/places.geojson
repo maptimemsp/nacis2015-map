@@ -2063,7 +2063,7 @@
       "address": "3500 Cedar Ave., Minneapolis, MN 55407",
       "web": "mattsbar.com",
       "poi_type": "bar",
-      "scoop": "Minneapolis icon/dive bar. Home of the original Jucy Lucy stuffed cheese burger"
+      "scoop": "Minneapolis icon/dive bar. Home of the original Juicy Lucy stuffed cheese burger"
     },
     "geometry": {
       "type": "Point",
@@ -2072,7 +2072,7 @@
          44.9394
       ]
     }
-  }
+  },
   {
    "type": "Feature",
    "properties": {
