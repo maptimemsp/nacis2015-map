@@ -1141,7 +1141,7 @@
         "title": "Saint Anthony Main Theaters",
         "address": "115 SE Main St, Minneapolis, MN 55414",
         "poi_type": "cinema",
-        "web": "www.stanthonymaintheatre.com",
+        "web": "http://www.stanthonymaintheatre.com",
         "scoop": "Convenient theater in the relaxing Saint Anthony Main area"
       },
       "geometry": {
@@ -2061,7 +2061,7 @@
     "properties": {
       "title": "Matt's Bar",
       "address": "3500 Cedar Ave., Minneapolis, MN 55407",
-      "web": "mattsbar.com",
+      "web": "http://www.mattsbar.com",
       "poi_type": "bar",
       "scoop": "Minneapolis icon/dive bar. Home of the original Juicy Lucy stuffed cheese burger"
     },
