@@ -250,7 +250,7 @@
         "address": "414 6th Ave N Minneapolis MN 55401",
         "web": "http://fultonbeer.com",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room, great for pre/post Target Field games"
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +267,7 @@
         "address": "1430 Washington Ave. S Minneapolis, MN 55454",
         "web": "http://www.townhallbrewery.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -284,7 +284,7 @@
         "address": "1105 Washington Ave S Minneapolis, MN 55415",
         "web": "https://www.dayblockbrewing.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -298,10 +298,10 @@
       "type": "Feature",
       "properties": {
         "title": "Herkimer Pub and Brewery",
-        "address": "922 Lyndale Ave S. Minneapolis MN 55408",
+        "address": "2922 Lyndale Ave S. Minneapolis MN 55408",
         "web": "http://www.theherkimer.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -314,11 +314,45 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Moto-i Ramen & Sake House",
+        "address": "2940 Lyndale Ave S, Minneapolis, MN, 55408",
+        "web": "http://www.moto-i.com/",
+        "poi_type": "restaurant",
+        "scoop": "Sake Brewery and Japanese Pub Grub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2883882522583,
+          44.948693065710664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Il Foro",
+        "address": "40 S 7th St, Minneapolis, MN 55402",
+        "web": "http://www.il-foro.com/",
+        "poi_type": "restaurant",
+        "scoop": "Classic Art Deco dining room. Excellent cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27379703521727,
+          44.97777722960113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Great Waters Brewing Company",
         "address": "426 Saint Peter Street Saint Paul, MN 55102",
         "web": "http://www.greatwatersbc.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -352,7 +386,7 @@
         "address": "1750 W Thomas Ave St. Paul, MN 55104",
         "web": "http://www.burnbrosbrew.com",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room - Gluten Free Beers"
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +454,7 @@
         "address": "2325 Endicott Street St. Paul, MN 55114",
         "web": "http://www.urbangrowlerbrewing.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +505,7 @@
         "address": "520 Malcolm Ave SE Minneapolis, MN, 55414 ",
         "web": "http://surlybrewing.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -488,7 +522,7 @@
         "address": "920 E. Lake St. #123 Minneapolis, MN 55407",
         "web": "http://www.eastlakemgm.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room - Surrounded by good eats"
       },
       "geometry": {
         "type": "Point",
@@ -539,7 +573,7 @@
         "address": "2716 East 38th Street, Minneapolis, MN 55406",
         "web": "http://www.northboundbrewpub.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -556,7 +590,7 @@
         "address": "701 N Washington Ave, Minneapolis, MN 55401",
         "web": "http://freehousempls.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room"
+        "scoop": "Tap Room and Brew Pub"
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +623,8 @@
         "title": "Pizzaria Lola",
         "address": "5557 Xerxes Ave. So., Minneapolis, MN 55410",
         "web": "http://www.pizzerialola.com/",
-        "poi_type": "restaurant"
+        "poi_type": "restaurant",
+        "scoop": "Delicious pizza"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +671,8 @@
         "title": "Sun Street Breads",
         "address": "4600 Nicollet Ave S, Minneapolis,MN 55419",
         "web": "http://www.sunstreetbreads.com/",
-        "poi_type": "cafe"
+        "poi_type": "cafe",
+        "scoop": "excellent biscuits and bread"
       },
       "geometry": {
         "type": "Point",
@@ -668,7 +704,8 @@
         "title": "Fasika",
         "address": "510 Snelling Ave N, St Paul, MN 55104",
         "web": "http://www.fasika.com/welcome.html",
-        "poi_type": "restaurant"
+        "poi_type": "restaurant",
+        "scoop": "Excellent Ethiopian cuisine"
       },
       "geometry": {
         "type": "Point",
@@ -701,7 +738,7 @@
         "address": "50 N 2nd Ave",
         "web": "http://patisserie46.com",
         "poi_type": "cafe",
-        "scoop": "James Beard Nominee ,amazing bread and pastries"
+        "scoop": "James Beard Nominee, amazing bread and pastries"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +770,8 @@
         "title": "The Third Bird",
         "address": "1612 Harmon Pl, Minneapolis 55403",
         "web": "http://www.thethirdbirdmpls.com/",
-        "poi_type": "restaurant"
+        "poi_type": "restaurant",
+        "scoop": "Accessible through the back alley"
       },
       "geometry": {
         "type": "Point",
@@ -766,6 +804,7 @@
         "address": "818 S 2nd St, Minneapolis, MN 55415",
         "web": "http://www.guthrietheater.org",
         "poi_type": "theatre"
+        "scoop": "Public space. Visit the endless bridge and the 9th floor."
       },
       "geometry": {
         "type": "Point",
@@ -931,7 +970,7 @@
         "address": "730 N Washington Ave, Minneapolis, MN 55401",
         "web": "http://www.boroughmpls.com/parlour/",
         "poi_type": "bar",
-        "scoop": "Artisan cocktails, great burger"
+        "scoop": "Artisan cocktails, great burger, underneath Borough"
       },
       "geometry": {
         "type": "Point",
@@ -1171,7 +1210,7 @@
         "address": "1620 Central Ave NE Ste 150 Minneapolis, MN 55413",
         "poi_type": "bar",
         "web": "http://www.tattersalldistilling.com",
-        "scoop": "Distillery cocktail room"
+        "scoop": "Distillery cocktail room. Excellent cocktails"
       },
       "geometry": {
         "type": "Point",
@@ -1545,7 +1584,7 @@
         "address": "3501 Nicollet Ave S, Minneapolis 55408",
         "web": "http://holaarepa.com/",
         "poi_type": "restaurant",
-        "scoop": "Hand-made, fresh Arepas"
+        "scoop": "Hand-made, fresh Arepas. Excellent cocktails"
       },
       "geometry": {
         "type": "Point",
@@ -1617,8 +1656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.24675500392914,
-          44.97356117700389
+          -93.2469293475151,
+          44.97318357661186
         ]
       }
     },
@@ -1644,7 +1683,8 @@
         "title": "Punch Pizza",
         "address": "802 Washington Ave SE, Minneapolis MN 55414",
         "web": "http://www.punchpizza.com",
-        "poi_type": "restaurant"
+        "poi_type": "restaurant",
+        "scoop": "Local Neapolitan pizza chain"
       },
       "geometry": {
         "type": "Point",
@@ -1954,7 +1994,8 @@
         "title": "112 Eatery",
         "address": "112 N 3rd St, Minneapolis, MN 55401",
         "web": "http://www.112eatery.com/",
-        "poi_type": "restaurant"
+        "poi_type": "restaurant",
+        "scoop": "Open late, good food"
       },
       "geometry": {
         "type": "Point",
@@ -2012,22 +2053,6 @@
      "coordinates": [
        -93.2576,
        44.9857
-     ]
-   }
- },
-   {
-   "type": "Feature",
-   "properties": {
-     "title": "Matchbox Coffee Shop",
-     "address": "1306 2nd Ave St SE, Minneapolis, MN 55413",
-     "poi_type": "cafe",
-     "scoop": "Great coffee, cash only."
-   },
-   "geometry": {
-     "type": "Point",
-     "coordinates": [
-       -93.2663,
-       45.0012
      ]
    }
  }
