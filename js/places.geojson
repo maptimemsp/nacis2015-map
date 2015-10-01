@@ -1186,6 +1186,7 @@
         ]
        }
     },
+<<<<<<< HEAD
     {
       "type": "Feature",
       "properties": {
@@ -1296,10 +1297,21 @@
         "poi_type": "bar",
         "web": "http://saloonmn.com/",
         "scoop": "Proudly serving the Twin Cities LGBTQ community for 35 years. Dance oriented."
+=======
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Hop21",
+        "address": "501 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "bar",
+        "web": "http://www.hop21.com",
+        "scoop": "A ping pong bar! With sandwiches, too."
+>>>>>>> bf8a8d9ad09579037cb2c96a4234fe8e6a881d55
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
+<<<<<<< HEAD
           -93.27696472406387,
           44.976672964958354
         ]
@@ -2088,6 +2100,23 @@
        44.98571326886948
      ]
    }
- }
+ },
++        {
++      "type": "Feature",
++      "properties": {
++        "title": "Hop21",
++        "address": "501 Washington Ave S, Minneapolis, MN 55415",
++        "poi_type": "bar",
++        "web": "http://www.hop21.com",
++        "scoop": "A ping pong bar! With sandwiches, too."
++      },
++      "geometry": {
++        "type": "Point",
++        "coordinates": [
++          -93.2609760761261,
++          44.97849631833918
++        ]
++       }
+     }
   ]
 }
