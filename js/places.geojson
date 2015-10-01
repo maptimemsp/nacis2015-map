@@ -1308,6 +1308,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hop21",
+        "address": "501 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "bar",
+        "web": "http://www.hop21.com",
+        "scoop": "A ping pong bar! With sandwiches, too."
+},
+     "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609760761261,
+          44.97849631833918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Seward Community Coop",
         "address": "2823 E Franklin Ave Minneapolis 55406",
         "web": "http://seward.coop/",
@@ -2088,6 +2105,23 @@
        44.98571326886948
      ]
    }
- }
+ },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Hop21",
+        "address": "501 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "bar",
+        "web": "http://www.hop21.com",
+        "scoop": "A ping pong bar! With sandwiches, too."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609760761261,
+          44.97849631833918
+        ]
+       }
+     }
   ]
 }
