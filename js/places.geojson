@@ -850,15 +850,15 @@
       "type": "Feature",
       "properties": {
         "title": "Dogwood Coffee Bar",
-        "address": "228 N Washington Ave, Minneapolis, MN 55401",
+        "address": "4021 E Lake St, Minneapolis, MN 55406",
         "web": "http://www.dogwoodcoffee.com",
         "poi_type": "cafe"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.27200531959532,
-          44.984641408058756
+          -93.2143,
+          44.9481
         ]
       }
     },
