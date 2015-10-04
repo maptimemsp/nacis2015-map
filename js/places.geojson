@@ -2156,6 +2156,74 @@
           44.97849631833918
         ]
        }
-     }
+     },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "1855 Map of Minneapolis @ Mpls Central Library",
+        "address": "300 Nicollet Mall, Minneapolis, MN 55401",
+        "poi_type": "sight",
+        "web": "http://www.startribune.com/map-illuminates-minneapolis-origins/330489861/#1",
+        "scoop": "Recently restored early map of Minneapolis.  Hanging in the Special Collections area, open between 10:00am and 4:30pm Mon-Thurs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26971739530563,
+      44.98031392196096
+        ]
+       }
+     },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Betty Danger's Country Club",
+            "address": "2501 Marshall St NE, Minneapolis, MN 55418",
+            "poi_type": "bar",
+            "web": "http://bettydangers.com/",
+            "scoop": "Complete with a vertical patio (Ferris Wheel)!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -93.27138036489485,
+              45.013337595055305
+            ]
+           }
+         },
+          {
+            "type": "Feature",
+            "properties": {
+              "title": "Sip Coffee Bar",
+              "address": "34 13th Ave NE, Minneapolis, MN 55413",
+              "poi_type": "cafe",
+              "web": "http://sipcoffeebar.com/",
+              "scoop": "Organic Fair Trade beans, food from scratch"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27168345451354,
+                44.99938010823233
+              ]
+             }
+           },
+            {
+              "type": "Feature",
+              "properties": {
+                "title": "Lakes & Legends Brewing Company",
+                "address": "1368 LaSalle Ave., Minneapolis, MN 55403",
+                "poi_type": "beer",
+                "web": "http://www.lakesandlegends.com",
+                "scoop": "Recently opened, focusing on Belgians and farmhouse beers."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -93.2800,
+                   44.9690
+                ]
+               }
+             }
   ]
 }
