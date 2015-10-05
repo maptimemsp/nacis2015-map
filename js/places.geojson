@@ -2091,6 +2091,23 @@
     }
   },
   {
+    "type": "Feature",
+    "properties": {
+      "title": "The Nook",
+      "address": "492 Hamline Ave S, St. Paul, MN 55116",
+      "web": "http://www.crnook.com",
+      "poi_type": "bar",
+      "scoop": "Small place with the best big burgers in town. Check out the vintage 70's bowling alley next door, downstairs."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.1567,
+         44.9265
+      ]
+    }
+  },
+  {
    "type": "Feature",
    "properties": {
      "title": "Wilde Roast Coffee",
