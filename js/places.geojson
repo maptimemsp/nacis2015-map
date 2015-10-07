@@ -2241,6 +2241,125 @@
                    44.9690
                 ]
                }
-             }
+             },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brasa Premium Rotisserie",
+        "address": "600 E Hennepin Ave., Minneapolis, MN 55414",
+        "poi_type": "restaurant",
+        "web": "http://www.brasa.us/",
+        "scoop": "Slow roasted meats and soul food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25126111507416,
+           44.9895319658106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burch Steak & Pizza Bar",
+        "address": "1942 Hennepin Ave., Minneapolis, MN 55403",
+        "poi_type": "restaurant",
+        "web": "http://www.burchrestaurant.com/",
+        "scoop": "Excellent steaks, dumplings, pizzas, and brunch by Isaac Becker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29165250062943,
+           44.96289822801845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corner Table",
+        "address": "4537 Nicollet Ave S, Minneapolis, MN 55419",
+        "poi_type": "restaurant",
+        "web": "http://www.cornertablerestaurant.com/",
+        "scoop": "Farm to table cuisine with friendly service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27773183584213,
+          44.920249400919296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Belle Vie",
+        "address": "510 Groveland Ave., Minneapolis, MN 55403",
+        "poi_type": "restaurant",
+        "web": "http://www.labellevie.us/",
+        "scoop": "The benchmark fine dining restaurant. Also imaginative cocktails and lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28718662261963,
+          44.96705244045385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ngon Vietnamese Bistro",
+        "address": "799 University Ave. W, Saint Paul, MN 55104",
+        "poi_type": "restaurant",
+        "web": "http://ngonbistro.com/",
+        "scoop": "Vietnamese food using locally sourced ingredients. Good beer selection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.13379645347595,
+          44.95594982994955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Piccolo",
+        "address": "4300 Bryant Ave S, Minneapolis, MN 55409",
+        "poi_type": "restaurant",
+        "web": "http://www.piccolompls.com/",
+        "scoop": "Tasty small plate restaurant. Order a course, eat it, repeat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29102486371994,
+          44.92487198033135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Revival",
+        "address": "4257 Nicollet Ave., Minneapolis, MN 55409",
+        "poi_type": "restaurant",
+        "web": "http://revivalmpls.com/",
+        "scoop": "Tennessee Hot Fried Chicken. Southern Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27773988246918,
+          44.92518912806103
+        ]
+      }
+    }
   ]
 }
