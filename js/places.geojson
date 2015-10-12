@@ -8,7 +8,7 @@
         "address": "225 Third Ave S",
         "web": "http://thedepotminneapolis.com/",
         "poi_type": "conf",
-        "scoop":"NACIS conference site"
+        "scoop": "NACIS conference site"
       },
       "geometry": {
         "type": "Point",
@@ -17,5 +17,2349 @@
           44.98044862724291
         ]
       }
-    }]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marvel Bar",
+        "address": "50 N 2nd Ave",
+        "web": "http://marvelbar.com",
+        "poi_type": "bar",
+        "scoop": "Hidden door, artisan cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2687,
+          44.98584
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Szechuan",
+        "address": "304 SE Oak St",
+        "web": "http://littleszechuan.com/",
+        "poi_type": "restaurant",
+        "scoop": "Rated by CNN as a top 50 Chinese restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22733849287033,
+          44.97348717511289
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Racer Kitchen",
+        "address": "2929 EAST 25TH ST.",
+        "web": "http://www.caferacermn.com/",
+        "poi_type": "restaurant",
+        "scoop": "upscale food at a good price and old motorcycles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.228661,
+          44.957391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nye's Polonaise Room",
+        "address": "112 East Hennepin Avenue",
+        "web": "http://www.nyespolonaise.com/",
+        "poi_type": "bar",
+        "scoop": "polka and pierogi, voted the best bar in America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.258246,
+          44.98713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aster Bar",
+        "address": "125 SE Main St",
+        "web": "http://aster-cafe.com",
+        "poi_type": "bar",
+        "scoop": "NACIS Night Out Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25501888990402,
+          44.98468124749174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bar la Grassa",
+        "address": "800 Washington Ave N",
+        "web": "http://www.barlagrassa.com/",
+        "poi_type": "restaurant",
+        "scoop": "Isaac Becker - James Beard Best Chef Midwest "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2785552740097,
+          44.98914119181756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zen Box Izakaya",
+        "address": "602 South Washington Ave",
+        "web": "http://zenboxizakaya.com/",
+        "poi_type": "restaurant",
+        "scoop": "Japanese Pub Grub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25955986976624,
+          44.97841473352694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dangerous Man Brewing",
+        "address": "1300 2nd Street NE Minneapolis, MN 55413",
+        "web": "http://dangerousmanbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26635122299194,
+          45.001041530887214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indeed Brewing Company",
+        "address": "711 15th Avenue NE Minneapolis MN 55413",
+        "web": "http://www.indeedbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25154542922974,
+          45.00318082608626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boom Island Brewing Company",
+        "address": "2014 Washington Ave. N Minneapolis, MN 55411",
+        "web": "http://boomislandbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2812562584877,
+          44.999846676993506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harriet Brewing",
+        "address": "3036 Minnehaha Ave Minneapolis, MN 55406",
+        "web": "http://www.harrietbrewing.com/",
+        "status": "open",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23367655277252,
+          44.94725603024114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bauhous Brew Labs",
+        "address": "1315 Tyler Street NE Minneapolis, Minnesota 55413",
+        "web": "http://bauhausbrewlabs.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24587523937225,
+          45.001026358295576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "612 Brew",
+        "address": "945 Broadway St NE Minneapolis, MN 55413",
+        "web": "http://www.612brew.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24699103832245,
+          44.998947675256325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Brewery",
+        "address": "414 6th Ave N Minneapolis MN 55401",
+        "web": "http://fultonbeer.com",
+        "poi_type": "beer",
+        "scoop": "Tap Room, great for pre/post Target Field games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27919363975525,
+          44.98488803267533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Town Hall Brewery",
+        "address": "1430 Washington Ave. S Minneapolis, MN 55454",
+        "web": "http://www.townhallbrewery.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24775815010071,
+          44.97333347857262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Day Block Brewing Company",
+        "address": "1105 Washington Ave S Minneapolis, MN 55415",
+        "web": "https://www.dayblockbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25306355953217,
+          44.97516073300032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herkimer Pub and Brewery",
+        "address": "2922 Lyndale Ave S. Minneapolis MN 55408",
+        "web": "http://www.theherkimer.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28828632831573,
+          44.94942011222259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moto-i Ramen & Sake House",
+        "address": "2940 Lyndale Ave S, Minneapolis, MN, 55408",
+        "web": "http://www.moto-i.com/",
+        "poi_type": "restaurant",
+        "scoop": "Sake Brewery and Japanese Pub Grub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2883882522583,
+          44.948693065710664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Il Foro",
+        "address": "40 S 7th St, Minneapolis, MN 55402",
+        "web": "http://www.il-foro.com/",
+        "poi_type": "restaurant",
+        "scoop": "Classic Art Deco dining room. Excellent cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27379703521727,
+          44.97777722960113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Great Waters Brewing Company",
+        "address": "426 Saint Peter Street Saint Paul, MN 55102",
+        "web": "http://www.greatwatersbc.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09695363044739,
+          44.946773846474414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bang Brewing",
+        "address": "2320 Capp Road Saint Paul, MN 55114",
+        "web": "http://bangbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1926441192627,
+          44.97073006225054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burning Brothers Brewing",
+        "address": "1750 W Thomas Ave St. Paul, MN 55104",
+        "web": "http://www.burnbrosbrew.com",
+        "poi_type": "beer",
+        "scoop": "Tap Room - Gluten Free Beers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.17415833473206,
+          44.958747510697805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sysiphus Brewing",
+        "address": "712 Ontario Avenue W. #100 Minneapolis, MN 55403",
+        "web": "http://www.sisyphusbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28896760940552,
+          44.9731778841246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summit Brewing",
+        "address": "910 Montreal Circle, St. Paul, MN 55102",
+        "web": "http://summitbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1397294998169,
+          44.91399864151555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tin Whiskers Brewing Company",
+        "address": "125 E 9th St. Unit 127 St. Paul, MN 55101",
+        "web": "http://twbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09355795383453,
+          44.9508172305805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urban Growler Brewing Company",
+        "address": "2325 Endicott Street St. Paul, MN 55114",
+        "web": "http://www.urbangrowlerbrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19334685802458,
+          44.97022530459251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fair State Brewing Cooperative",
+        "address": "2506A Central Ave NE Minneapolis, MN 55418 ",
+        "web": "http://fairstatebrewing.tumblr.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24762403964996,
+          45.013348972053954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Insight Brewing",
+        "address": "2821 East Hennepin Avenue Minneapolis, MN 55413",
+        "web": "http://www.insightbrewing.com",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21281433105469,
+          44.9918234412382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Surly Brewing Company",
+        "address": "520 Malcolm Ave SE Minneapolis, MN, 55414 ",
+        "web": "http://surlybrewing.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20974588394165,
+          44.97326896385272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EastLake Brewery and Tavern",
+        "address": "920 E. Lake St. #123 Minneapolis, MN 55407",
+        "web": "http://www.eastlakemgm.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room - Surrounded by good eats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26040744781494,
+          44.948596252033866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NorthGate Brewing",
+        "address": "783 Harding St. NE Minneapolis, MN 55413",
+        "web": "http://www.northgatebrew.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22126865386963,
+          44.99833315962359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lynlake Brewery",
+        "address": "2934 Lyndale Avenue S. Minneapolis, MN 55408",
+        "web": "http://www.lynlakebrewery.com",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28830510377884,
+          44.948917065356504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northbound Smokehouse",
+        "address": "2716 East 38th Street, Minneapolis, MN 55406",
+        "web": "http://www.northboundbrewpub.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23243737220764,
+          44.93426222981321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Freehouse",
+        "address": "701 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://freehousempls.com/",
+        "poi_type": "beer",
+        "scoop": "Tap Room and Brew Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2772946357727,
+          44.98764256782427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sociable Ciderwerks",
+        "address": "1500 Fillmore St. NEm Minneapolis, MN 55413",
+        "web": "http://sociablecider.com",
+        "poi_type": "beer",
+        "scoop": "Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2442256808281,
+          45.004301648328955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pizzaria Lola",
+        "address": "5557 Xerxes Ave. So., Minneapolis, MN 55410",
+        "web": "http://www.pizzerialola.com/",
+        "poi_type": "restaurant",
+        "scoop": "Delicious pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31865161657333,
+          44.901791461160904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MSP International Airport",
+        "address": "4300 Glumack Dr, St. Paul,  MN 55111",
+        "poi_type": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.221941,
+          44.884634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Depot Renaissance Hotel",
+        "address": "225 3rd Ave S, Minneapolis, MN 55401",
+        "poi_type": "hotel",
+        "scoop": "The Depot Renaissance block is full. NACIS has secured a discount rate at the Residence Inn attached to the Depot."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2627,
+          44.9805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Street Breads",
+        "address": "4600 Nicollet Ave S, Minneapolis,MN 55419",
+        "web": "http://www.sunstreetbreads.com/",
+        "poi_type": "cafe",
+        "scoop": "excellent biscuits and bread"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2781395316124,
+          44.91942512213253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Izzy's Ice Cream",
+        "address": "1100 Second Street South, Minneapolis, MN 55415",
+        "web": "http://izzysicecream.com/",
+        "poi_type": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25203627347946,
+          44.976433894554994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fasika",
+        "address": "510 Snelling Ave N, St Paul, MN 55104",
+        "web": "http://www.fasika.com/welcome.html",
+        "poi_type": "restaurant",
+        "scoop": "Excellent Ethiopian cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.166736,
+          44.956653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minnehaha Falls Regional Park",
+        "address": "4801 S Minnehaha Park Dr, Minneapolis, MN 55417",
+        "web": "http://www.nps.gov/miss/planyourvisit/minnehah.htm",
+        "poi_type": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2122,
+          44.9156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patisserie 46",
+        "address": "50 N 2nd Ave",
+        "web": "http://patisserie46.com",
+        "poi_type": "cafe",
+        "scoop": "James Beard Nominee, amazing bread and pastries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28468680381775,
+          44.919719508771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minneapolis Institute of Arts",
+        "address": "2400 3rd Ave S, Minneapolis, MN 55404",
+        "web": "http://new.artsmia.org",
+        "poi_type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27321767807007,
+          44.95828440335997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Third Bird",
+        "address": "1612 Harmon Pl, Minneapolis 55403",
+        "web": "http://www.thethirdbirdmpls.com/",
+        "poi_type": "restaurant",
+        "scoop": "Accessible through the back alley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28571945428848,
+          44.97160104340235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Minneapolis Sculpture Garden",
+        "address": "1750 Hennepin Avenue, Minneapolis, MN 55403",
+        "web": "https://www.walkerart.org/garden/",
+        "poi_type": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28906416893005,
+          44.97005072572199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guthrie Theater",
+        "address": "818 S 2nd St, Minneapolis, MN 55415",
+        "web": "http://www.guthrietheater.org",
+        "poi_type": "theatre",
+        "scoop": "Public space. Visit the endless bridge and the 9th floor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2557175,
+          44.978199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mall of America",
+        "address": "60 E Broadway, Bloomington, MN 55425",
+        "web": "http://www.mallofamerica.com",
+        "poi_type": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2420825958252,
+          44.85465191564147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Brothers Coffee",
+        "address": "201 3rd Ave S, Minneapolis, MN 55401",
+        "web": "http://dunnbrothers-freighthouse.com/",
+        "poi_type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26315402984619,
+          44.980782543196874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dogwood Coffee Bar",
+        "address": "4021 E Lake St, Minneapolis, MN 55406",
+        "web": "http://www.dogwoodcoffee.com",
+        "poi_type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2143,
+          44.9481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taraccino Coffee",
+        "address": "224 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://www.taraccinocoffee.com/",
+        "poi_type": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25656652450562,
+          44.98776397679619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Punch Pizza",
+        "address": "210 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://www.punchpizza.com/",
+        "poi_type": "restaurant",
+        "scoop": "Best Neopolitan pizza in town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25701177120209,
+          44.98763877378977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bulldog Northeast",
+        "address": "401 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://www.thebulldognortheast.com/",
+        "poi_type": "bar",
+        "scoop": "Great beer selection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25490891933441,
+          44.98870109364528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smack Shack",
+        "address": "603 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://smack-shack.com/",
+        "poi_type": "restaurant",
+        "scoop": "Lobster Rolls, former food truck made good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27620029449463,
+          44.98689513817634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Black Sheep Pizza",
+        "address": "600 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://blacksheeppizza.com/",
+        "poi_type": "restaurant",
+        "scoop": "Coal fired, very good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27586233615875,
+          44.98716072343145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Borough",
+        "address": "730 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://www.boroughmpls.com",
+        "poi_type": "restaurant",
+        "scoop": "Bon Appetit Top 50 Best New Restaurants in America 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27820122241974,
+          44.98886802783255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parlour",
+        "address": "730 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://www.boroughmpls.com/parlour/",
+        "poi_type": "bar",
+        "scoop": "Artisan cocktails, great burger, underneath Borough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27811002731322,
+          44.988776972881574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Residence Inn at the Depot",
+        "address": "425 S 2nd St, Minneapolis, MN 55401",
+        "poi_type": "hotel",
+        "web": "http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=North%20American%20Cartographic%20Information%20Society%5EMSPMW%60NORNORB%60169.00%60USD%60false%604%6010/12/15%6010/18/15%609/21/2015&app=resvlink&stop_mobi=yes",
+        "scoop": "Book online, or call (866) 211-4612 and ask for the North American Cartographic Information Society block to get the group rate of $169.00 for 1 Bedroom Suite."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.261218,
+          44.979889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hyatt Place Minneapolis/Downtown",
+        "address": "425 S 7th St, Minneapolis, MN 55415",
+        "poi_type": "hotel",
+        "web": "http://minneapolisdowntown.place.hyatt.com/en/hotel/home.html?corp_id=G-NACI",
+        "scoop": "As the Residence Inn at the Depot is expected to fill up quickly, NACIS has also secured a group rate at the nearby Hyatt Place Minneapolis/Downtown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.266159,
+          44.973905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mill City Museum",
+        "address": "704 South 2nd St, Mpls, MN 55401",
+        "poi_type": "museum",
+        "web": "http://www.millcitymuseum.org/",
+        "scoop": "Flour milling helped build Minneapolis, great museum with an even better view from the roof!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2572478055954,
+          44.978803683333574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Bros Coffee",
+        "address": "329 W 15th St, Minneapolis, MN 55403",
+        "poi_type": "cafe",
+        "web": "http://dunnbrothers-loringpark.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2837426662445,
+          44.96780012879039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dogwood Coffee Bar",
+        "address": "3001 Hennepin Ave, Minneapolis, MN 55408",
+        "poi_type": "cafe",
+        "web": "http://www.dogwoodcoffee.com/pages/coffee-bars",
+        "scoop": "Some of the best espresso in town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29807639122009,
+          44.94737372802589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spyhouse Coffee NE",
+        "address": "945 Broadway St NE, Minneapolis, MN 55413",
+        "poi_type": "cafe",
+        "web": "http://spyhousecoffee.com/pages/broadway",
+        "scoop": "Very good coffee, awesome space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24630975723267,
+          44.9988718094854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Constantine",
+        "address": "1115 2nd Ave S, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://constantinempls.com",
+        "scoop": "Artisan reinventions of late 20th century drinks.  They have an 'ice program'..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27289581298828,
+          44.971439751594374
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Afro Deli & Coffee",
+        "address": "1939 S 5th St, Minneapolis, MN 55454",
+        "poi_type": "cafe",
+        "web": "http://www.afrodeli.com/",
+        "scoop": "Compact counter serve featuring African & American eats & espresso in a bright, colorful interior."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24437856674194,
+          44.968646485045646
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Avenue",
+        "address": "701 First Avenue N, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://first-avenue.com/",
+        "scoop": "Rock and Roll pilgrimage destination. Take that selfie with the Husker Du star on the wall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27597230672835,
+          44.978557032542746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Anthony Main Theaters",
+        "address": "115 SE Main St, Minneapolis, MN 55414",
+        "poi_type": "cinema",
+        "web": "http://www.stanthonymaintheatre.com",
+        "scoop": "Convenient theater in the relaxing Saint Anthony Main area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25588792562485,
+          44.9848709586976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Acadia Cafe",
+        "address": "329 Cedar Ave, Minneapolis, MN 55454",
+        "poi_type": "bar",
+        "web": "http://acadiacafe.com/",
+        "scoop": "Great bar and restaurant, 1/2 off apps and $1 off beer during happy hour. A favorite of the GIS students from the U."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.246978,
+          44.970299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foreign Legion",
+        "address": "101 S 5th St Minneapolis, MN, 55402",
+        "poi_type": "bar",
+        "web": "http://foreignlegion-mn.com",
+        "scoop": "Quiet, swanky place for cocktails and conversation at a normal speaking volume."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26901197433472,
+          44.97794419560011
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spyhouse Coffee",
+        "address": "2404 Hennepin Ave S, Minneapolis, MN 55405",
+        "poi_type": "cafe",
+        "web": "http://spyhousecoffee.com/pages/hennepin",
+        "scoop": "Great coffee on Hennepin Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29451978206635,
+          44.95895818533998
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tattersall Distilling",
+        "address": "1620 Central Ave NE Ste 150 Minneapolis, MN 55413",
+        "poi_type": "bar",
+        "web": "http://www.tattersalldistilling.com",
+        "scoop": "Distillery cocktail room. Excellent cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24919581413269,
+          45.00505833317941
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blackbird",
+        "address": "3800 Nicollet Ave, Minneapolis, MN",
+        "poi_type": "restaurant",
+        "web": "http://www.blackbirdmpls.com/",
+        "scoop": "Great neighborhood restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27812612056732,
+          44.9339963995794
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradstreet Neighborhood Crafthouse",
+        "address": "1930 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://www.bradstreetcraftshouse.com/",
+        "scoop": "Craft cocktails and food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29121530056,
+          44.96323414399464
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sebastian Joe's Ice Cream",
+        "address": "1930 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "ice-cream",
+        "web": "http://sebastianjoesicecream.com/",
+        "scoop": "The original craft ice cream in Mpls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2922238111496,
+          44.962573697156465
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gay 90s",
+        "address": "408 Hennepin Avenue N, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://www.gay90s.com/",
+        "scoop": "Minneapolis institution since the 1920s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27174246311186,
+          44.9804543190084
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Saloon",
+        "address": "830 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "bar",
+        "web": "http://saloonmn.com/",
+        "scoop": "Proudly serving the Twin Cities LGBTQ community for 35 years. Dance oriented."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27696472406387,
+          44.976672964958354
+        ]
+       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hop21",
+        "address": "501 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "bar",
+        "web": "http://www.hop21.com",
+        "scoop": "A ping pong bar! With sandwiches, too."
+},
+     "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609760761261,
+          44.97849631833918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seward Community Coop",
+        "address": "2823 E Franklin Ave Minneapolis 55406",
+        "web": "http://seward.coop/",
+        "poi_type": "grocery",
+        "scoop": "Great Co-op with deli and bakery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23029160499573,
+          44.96264201959577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sober Fish",
+        "address": "2627 E Franklin Ave, Minneapolis 55406",
+        "web": "http://www.soberfishrestaurant.com/",
+        "poi_type": "restaurant",
+        "scoop": "The Thai and Sushi combo could go wrong, but it works."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2332044839859,
+          44.962651508817
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Birchwood Cafe",
+        "address": "3311 East 25th Street, Minneapolis MN 55406",
+        "web": "http://www.soberfishrestaurant.com/",
+        "poi_type": "restaurant",
+        "scoop": "Neighborhood favorite!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22340369224548,
+          44.9572670724775
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "One on One Bicycle Studio",
+        "address": "117 Washington Ave N, Minneapolis, MN 55401",
+        "web": "http://www.oneononebike.com/",
+        "poi_type": "bicycle",
+        "scoop": "Awesome bike shop with rentals and coffee!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27099680900572,
+          44.983233730321366
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Moose & Sadie's",
+        "address": "212 3rd Ave N, Minneapolis, MN 55401",
+        "web": "http://www.mooseandsadies.com/",
+        "poi_type": "restaurant",
+        "scoop": "Neighborhood cafe with fresh, local, and organic ingredients."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27166199684142,
+          44.98532057174826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brit's Pub",
+        "address": "1110 Nicollet Mall, Minneapolis MN 55403",
+        "web": "http://www.britspub.com/",
+        "poi_type": "bar",
+        "scoop": "MSP's most Brittish pub. Rooftop lawn bowling in good weather."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27608495950699,
+          44.97265796790711
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Barrio",
+        "address": "925 Nicollet Mall, Minneapolis MN 55402",
+        "web": "http://barriotequila.com/",
+        "poi_type": "bar",
+        "scoop": "Excellent guac, Tequila flights (and horrible Flash-based Web site)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -93.27417254447937,
+          44.97432585761943
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Electric Fetus",
+        "address": "2000 4th Ave S, Minneapolis, MN 55404",
+        "web": "http://www.electricfetus.com/",
+        "poi_type": "music",
+        "scoop": "Vinyl.  'widely regarded as the pre-eminent indie record store in Minnesota' - MPR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27037453651427,
+           44.96238770788173
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Lunds and Byerly's",
+        "address": "1201 Hennepin Ave, Minneapolis, MN 55403",
+        "web": "http://lundsandbyerlys.com/our-stores/locations/downtown-minneapolis/",
+        "poi_type": "grocery",
+        "scoop": "Upscale groceries downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28062593936919,
+          44.97450232092885
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods Market",
+        "address": "222 Hennepin Ave, Minneapolis, MN 55403",
+        "web": "http://www.wholefoodsmarket.com/stores/hennepin/",
+        "poi_type": "grocery",
+        "scoop": "Upscale groceries downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26948136091232,
+          44.98270252219237
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Sea Salt Eatery",
+        "address": "4801 Minnehaha Ave S, Minneapolis",
+        "web": "https://seasalteatery.wordpress.com/",
+        "poi_type": "restaurant",
+        "scoop": "Awesome, fresh sea food, and great selection of beer and wine near Minnehaha Falls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21088314056396,
+          44.91617347389462
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Tin Fish",
+        "address": "4801 Minnehaha Ave S, Minneapolis",
+        "web": "http://www.thetinfishrestaurants.com/the-tin-fish-restaurants-minneapolis-mn-lake-calhoun/",
+        "poi_type": "restaurant",
+        "scoop": "Awesome setting on Lake Calhoun.  Fried fish with good beer and wine menu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30646634101868,
+          44.94805143476832
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bread and Pickle",
+        "address": "4135 W Lake Harriet Pkwy, Minneapolis, MN 55410",
+        "web": "http://www.breadandpickle.com/about-us",
+        "poi_type": "restaurant",
+        "scoop": "Good food, beer, wine, and ice cream on Lake Harriet.  Locally owned."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30826073884964,
+          44.92791614646
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Anchor Fish and Chips",
+        "address": "302 13th Ave NE., Minneapolis, MN 55413",
+        "web": "http://www.theanchorfishandchips.com/",
+        "poi_type": "restaurant",
+        "scoop": "Best fish and chips in town, carry out and over to Dangerous Man Brewing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26446294784546,
+          45.000760837291146
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Masu Sushi & Robata",
+        "address": "330 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://masusushiandrobata.com/",
+        "poi_type": "restaurant",
+        "scoop": "Sushi, Ramen, Izakaya, Noodles, more..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25504034757614,
+          44.98826099209385
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Nighthawks",
+        "address": "3753 Nicollet Ave S, Minneapolis 55401",
+        "web": "http://nighthawksmpls.com/",
+        "poi_type": "restaurant",
+        "scoop": "Modern Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27775061130524,
+          44.93424324198018
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Hola Arepa",
+        "address": "3501 Nicollet Ave S, Minneapolis 55408",
+        "web": "http://holaarepa.com/",
+        "poi_type": "restaurant",
+        "scoop": "Hand-made, fresh Arepas. Excellent cocktails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27782034873962,
+          44.93944567342283
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Jasmine Deli",
+        "address": "2532 Nicollet Ave S, Minneapolis 55404",
+        "web": "http://www.jasminedelimpls.com/",
+        "poi_type": "restaurant",
+        "scoop": "Vietnamese, great Bahn Mi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27806442975998,
+          44.95643763078006
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "moto-i Ramen and Sake House",
+        "address": "2940 Lyndale Ave S, Minneapolis MN 55408",
+        "web": "http://www.moto-i.com",
+        "poi_type": "restaurant",
+        "scoop": "Sake Brewery, great Ramen, rooftop dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28834801912308,
+          44.948658896196335
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bulldog NE",
+        "address": "401 E Hennepin Ave, Minneapolis, MN 55414",
+        "web": "http://www.thebulldognortheast.com/",
+        "poi_type": "bar",
+        "scoop": "Great beer selection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25491696596146,
+          44.98872385742672
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Republic",
+        "address": "221 Cedar Ave S, Minneapolis, MN 55454",
+        "web": "http://www.republicmn.com/",
+        "poi_type": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2469293475151,
+          44.97318357661186
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bun Mi",
+        "address": "604 Washington Ave SE Minneapolis, MN 55414",
+        "web": "http://www.bunmisandwiches.com/",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22975248098373,
+          44.9735346122335
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Punch Pizza",
+        "address": "802 Washington Ave SE, Minneapolis MN 55414",
+        "web": "http://www.punchpizza.com",
+        "poi_type": "restaurant",
+        "scoop": "Local Neapolitan pizza chain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22674036026001,
+          44.97347958516994
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Loring Pasta Bar",
+        "address": "327 14th Ave SE, Minneapolis 55414",
+        "web": "http://loringpastabar.com",
+        "poi_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23614150285721,
+          44.980344278108475
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bob Dylan Mural",
+        "web": "http://www.mprnews.org/story/2015/08/31/bob-dylan-mural-minneapolis",
+        "poi_type": "sight",
+        "scoop": "Recently completed 5 story tribute to Bob Dylan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27208578586577,
+          44.9790958682821
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Music Notes Mural",
+        "poi_type": "sight",
+        "scoop": "Maurice Ravel’s “Gaspard de la Nuit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27357172966003,
+          44.97388374823397
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Van Gogh's Olive Trees in crop art!",
+        "poi_type": "sight",
+        "web": "http://www.mprnews.org/story/2015/09/11/van-gogh-crop-art#gallery",
+        "scoop": "Get a left-side seat and look out the window just before landing at MSP."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1253045797348,
+          44.832694011919884
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Brothers Coffee",
+        "address": "901 Nicollet Mall, Minneapolis 55402",
+        "poi_type": "cafe",
+        "web": "http://dunnbrothers-nicollet9th.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27384531497955,
+          44.974745194273204
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Museum of Russian Art",
+        "address": "5500 Stevens Ave S, Minneapolis, MN 55419",
+        "poi_type": "museum",
+        "web": "http://tmora.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27579528093338,
+          44.90338921810717
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Weisman Art Museum",
+        "address": "333 East River Road, Minneapolis",
+        "poi_type": "museum",
+        "web": "http://www.weisman.umn.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23725461959839,
+          44.97322342400674
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "American Swedish Institute",
+        "address": "2600 Park Avenue Minneapolis MN 55407",
+        "poi_type": "museum",
+        "scoop": "Swedish culture, exhibits and cafe in a historical mansion.",
+        "web": "http://www.asimn.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26566457748413,
+          44.9551184711186
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bakken Museum",
+        "address": "3537 Zenith Avenue S, Minneapolis, MN 55416",
+        "poi_type": "museum",
+        "scoop": "Explore the history and nature of electricity and magnetism.",
+        "web": "http://www.thebakken.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32111120223999,
+          44.93819257609555
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Walker Art Center",
+        "address": "1750 Hennepin Avenue, Minneapolis, MN 55403",
+        "poi_type": "museum",
+        "scoop": "Modern Art. Visual, media, and performing.",
+        "web": "http://www.walkerart.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28861892223358,
+          44.96800887252476
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Minnesota History Center",
+        "address": "345 W Kellogg Blvd, St Paul, MN 55102",
+        "poi_type": "museum",
+        "web": "http://www.minnesotahistorycenter.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.10545086860657,
+          44.94962132973452
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Science Museum of Minnesota",
+        "address": "120 W Kellogg Blvd, Saint Paul, MN 55102",
+        "poi_type": "museum",
+        "web": "http://www.smm.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09884190559387,
+          44.94251374778669
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bell Museum",
+        "address": "10 Church Street SE, Minneapolis, MN 55455",
+        "poi_type": "museum",
+        "web": "http://www.bellmuseum.umn.edu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23323667049408,
+          44.97781517646179
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Angel Food Bakery and Coffee Shop",
+        "address": "86 S 9th St, Minneapolis, MN 55402",
+        "poi_type": "bakery",
+        "scoop": "Small batch, from scratch...",
+        "web": "http://www.angelfoodmn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27289044857024,
+          44.974745194273204
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Glam Doll Donuts",
+        "address": "2605 Niccollet Ave Minneapolis, MN 55408",
+        "poi_type": "bakery",
+        "web": "http://www.glamdolldonuts.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2776728272438,
+          44.95517921007116
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Bogart's Donuts",
+        "address": "904 West 36th St, Minneapolis, MN 55408",
+        "poi_type": "bakery",
+        "scoop": "Fresh donuts, Kosher to boot.",
+        "web": "http://www.bogartsdoughnutco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29107582569122,
+          44.937820438895386
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Sarah Jane's Bakery",
+        "address": "2853 Johnson St NE, Minneapolis, MN 55418",
+        "poi_type": "bakery",
+        "scoop": "Old fashioned bakery (including donuts).",
+        "web": "http://www.sarahjanesbakery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23693811893463,
+          45.020208890654246
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Spoon River",
+        "address": "750 South 2nd St, Minneapolis, MN 55401",
+        "web": "http://spoonriver.com/",
+        "poi_type": "restaurant",
+        "scoop": "Brenda Langdon has been doing local and organic in Minnesota since 1978."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2565101981163,
+          44.97833504592381
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "112 Eatery",
+        "address": "112 N 3rd St, Minneapolis, MN 55401",
+        "web": "http://www.112eatery.com/",
+        "poi_type": "restaurant",
+        "scoop": "Open late, good food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27176392078398,
+          44.982565925020786
+        ]
+      }
+    },
+    {
+     "type": "Feature",
+     "properties": {
+       "title": "Segue Cafe",
+       "address": "609 S 10th St, Minneapolis, MN 55404",
+       "web": "http://www.seguecafe.com",
+       "poi_type": "cafe",
+       "scoop": "Pastries, lunch fare, & espresso drinks. Artwork & live music by local artists."
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [
+         -93.2663,
+          44.9702
+       ]
+     }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+      "title": "Caribou Coffee",
+      "address": "501 S Washington Ave, Minneapolis, MN 55415",
+      "web": "http://www.cariboucoffee.com",
+      "poi_type": "cafe",
+      "scoop": "Eco-conscious coffee chain offering java drinks, smoothies & teas alongside light fare & pastries."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2610,
+         44.9784
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "Matt's Bar",
+      "address": "3500 Cedar Ave., Minneapolis, MN 55407",
+      "web": "http://www.mattsbar.com",
+      "poi_type": "bar",
+      "scoop": "Minneapolis icon/dive bar. Home of the original Juicy Lucy stuffed cheese burger"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2478,
+         44.9394
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "5-8 Club",
+      "address": "5800 Cedar Ave., Minneapolis, MN 55407",
+      "web": "http://www.5-8club.com",
+      "poi_type": "bar",
+      "scoop": "Old speakeasy turned burger bar serving up their genuine Juicy Lucy stuffed cheese burger"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2482,
+         44.8972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "The Nook",
+      "address": "492 Hamline Ave S, St. Paul, MN 55116",
+      "web": "http://www.crnook.com",
+      "poi_type": "bar",
+      "scoop": "Small place with the best big burgers in town. Check out the vintage 70's bowling alley next door, downstairs."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.1567,
+         44.9265
+      ]
+    }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+     "title": "Wilde Roast Coffee",
+     "address": "65 SE Main St, Minneapolis, MN 55414",
+     "web": "http://www.wilderoastcafe.com",
+     "poi_type": "cafe",
+     "scoop": "Long-standing comfy cafe in a Victorian-styled space."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.2576,
+       44.9857
+     ]
+   }
+ },
+   {
+   "type": "Feature",
+   "properties": {
+     "title": "Matchbox Coffee Shop",
+     "address": "1306 2nd Ave St SE, Minneapolis, MN 55413",
+     "poi_type": "cafe",
+     "scoop": "Great coffee, cash only."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.2663,
+       45.0012
+     ]
+   }
+ },
+   {
+   "type": "Feature",
+   "properties": {
+     "title": "The Bachelor Farmer",
+     "address": "50 N 2nd Ave, Minneapolis, MN 55401",
+     "web": "http://thebachelorfarmer.com",
+     "poi_type": "restaurant",
+     "scoop": "Quintesential MN restaurant, Nordic cuisine, POTUS ate here when he was in town."
+   },
+   "geometry": {
+     "type": "Point",
+     "coordinates": [
+       -93.26885640621185,
+       44.98571326886948
+     ]
+   }
+ },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "Hop21",
+        "address": "501 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "bar",
+        "web": "http://www.hop21.com",
+        "scoop": "A ping pong bar! With sandwiches, too."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609760761261,
+          44.97849631833918
+        ]
+       }
+     },
+        {
+      "type": "Feature",
+      "properties": {
+        "title": "1855 Map of Minneapolis @ Mpls Central Library",
+        "address": "300 Nicollet Mall, Minneapolis, MN 55401",
+        "poi_type": "sight",
+        "web": "http://www.startribune.com/map-illuminates-minneapolis-origins/330489861/#1",
+        "scoop": "Recently restored early map of Minneapolis.  Hanging in the Special Collections area, open between 10:00am and 4:30pm Mon-Thurs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26971739530563,
+      44.98031392196096
+        ]
+       }
+     },
+        {
+          "type": "Feature",
+          "properties": {
+            "title": "Betty Danger's Country Club",
+            "address": "2501 Marshall St NE, Minneapolis, MN 55418",
+            "poi_type": "bar",
+            "web": "http://bettydangers.com/",
+            "scoop": "Complete with a vertical patio (Ferris Wheel)!"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -93.27138036489485,
+              45.013337595055305
+            ]
+           }
+         },
+          {
+            "type": "Feature",
+            "properties": {
+              "title": "Sip Coffee Bar",
+              "address": "34 13th Ave NE, Minneapolis, MN 55413",
+              "poi_type": "cafe",
+              "web": "http://sipcoffeebar.com/",
+              "scoop": "Organic Fair Trade beans, food from scratch"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.27168345451354,
+                44.99938010823233
+              ]
+             }
+           },
+            {
+              "type": "Feature",
+              "properties": {
+                "title": "Lakes & Legends Brewing Company",
+                "address": "1368 LaSalle Ave., Minneapolis, MN 55403",
+                "poi_type": "beer",
+                "web": "http://www.lakesandlegends.com",
+                "scoop": "Recently opened, focusing on Belgians and farmhouse beers."
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -93.2800,
+                   44.9690
+                ]
+               }
+             },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brasa Premium Rotisserie",
+        "address": "600 E Hennepin Ave., Minneapolis, MN 55414",
+        "poi_type": "restaurant",
+        "web": "http://www.brasa.us/",
+        "scoop": "Slow roasted meats and soul food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25126111507416,
+           44.9895319658106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burch Steak & Pizza Bar",
+        "address": "1942 Hennepin Ave., Minneapolis, MN 55403",
+        "poi_type": "restaurant",
+        "web": "http://www.burchrestaurant.com/",
+        "scoop": "Excellent steaks, dumplings, pizzas, and brunch by Isaac Becker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29165250062943,
+           44.96289822801845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corner Table",
+        "address": "4537 Nicollet Ave S, Minneapolis, MN 55419",
+        "poi_type": "restaurant",
+        "web": "http://www.cornertablerestaurant.com/",
+        "scoop": "Farm to table cuisine with friendly service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27773183584213,
+          44.920249400919296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Belle Vie",
+        "address": "510 Groveland Ave., Minneapolis, MN 55403",
+        "poi_type": "restaurant",
+        "web": "http://www.labellevie.us/",
+        "scoop": "The benchmark fine dining restaurant. Also imaginative cocktails and lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28718662261963,
+          44.96705244045385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ngon Vietnamese Bistro",
+        "address": "799 University Ave. W, Saint Paul, MN 55104",
+        "poi_type": "restaurant",
+        "web": "http://ngonbistro.com/",
+        "scoop": "Vietnamese food using locally sourced ingredients. Good beer selection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.13379645347595,
+          44.95594982994955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Piccolo",
+        "address": "4300 Bryant Ave S, Minneapolis, MN 55409",
+        "poi_type": "restaurant",
+        "web": "http://www.piccolompls.com/",
+        "scoop": "Tasty small plate restaurant. Order a course, eat it, repeat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29102486371994,
+          44.92487198033135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Revival",
+        "address": "4257 Nicollet Ave., Minneapolis, MN 55409",
+        "poi_type": "restaurant",
+        "web": "http://revivalmpls.com/",
+        "scoop": "Tennessee Hot Fried Chicken. Southern Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27773988246918,
+          44.92518912806103
+        ]
+      }
+    }
+  ]
 }
