@@ -2428,6 +2428,40 @@
           44.96253
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Du Nord Cocktail Room",
+        "address": "2610 E. 32nd St., Minneapolis, MN 55406",
+        "poi_type": "bar",
+        "web": "http://dunordcraftspirits.com/home/",
+        "scoop": "Cocktails at local micro-distillery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23456,
+          44.94486
+        ]
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seward Cafe",
+        "address": "2129 E. Franklin Ave., Minneapolis, MN 55404",
+        "poi_type": "restaurant",
+        "web": "http://www.sewardcafe.com",
+        "scoop": "Vegetarian-friendly eats, open late, collectively-run since 1974!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24123,
+          44.96255
+        ]
+      }
+    }
     }
   ]
 }
