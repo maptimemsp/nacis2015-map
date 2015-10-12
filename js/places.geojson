@@ -2360,6 +2360,74 @@
           44.92518912806103
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zipp's Liquors",
+        "address": "2618 E. Franklin Ave., Minneapolis, MN 55406",
+        "poi_type": "beer",
+        "web": "http://zippsliquors.com/",
+        "scoop": "Great selection of local beers and spirits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2334519,
+          44.9630332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John R. Borchert Map Library",
+        "address": "309 19th Ave. S., Minneapolis, MN 55455",
+        "poi_type": "museum",
+        "web": "https://www.lib.umn.edu/borchert",
+        "scoop": "Located inside Wilson Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24362,
+          44.97094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Big Brain Comics",
+        "address": "1027 Washington Ave. S., Minneapolis, MN 55415",
+        "poi_type": "shop",
+        "web": "http://www.bigbraincomics.com",
+        "scoop": "Next to Open Book Literary/Book Arts Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2535866,
+          44.9752992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blue Nile",
+        "address": "2027 E. Franklin Ave., Minneapolis, MN 55404",
+        "poi_type": "restaurant",
+        "web": "http://bluenilempls.com",
+        "scoop": "Ethiopian food plus great beer list"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24289,
+          44.96253
+        ]
+      }
     }
   ]
 }
