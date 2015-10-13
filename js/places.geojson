@@ -2433,7 +2433,7 @@
       "type": "Feature",
       "properties": {
         "title": "Du Nord Cocktail Room",
-        "address": "2610 E. 32nd St., Minneapolis, MN 55406",
+        "address": "2610 E 32nd St, Minneapolis, MN 55406",
         "poi_type": "bar",
         "web": "http://dunordcraftspirits.com/home/",
         "scoop": "Cocktails at local micro-distillery"
@@ -2462,7 +2462,40 @@
           44.96255
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Psycho Suzi's Motor Lounge",
+        "address": "1900 Marshall St NE, Minneapolis, MN 55418",
+        "poi_type": "bar",
+        "web": "http://psychosuzis.com/",
+        "scoop": "Tiki, tattoos, and riverfront patio."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.272386,
+           45.007483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maeve's Cafe",
+        "address": "300 13th Ave NE, Minneapolis, MN 55413",
+        "poi_type": "cafe",
+        "web": "http://maeves.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2644307,
+           45.0007684
+        ]
+      }
     }
-    
+
   ]
 }
