@@ -79,7 +79,7 @@
         "address": "112 East Hennepin Avenue",
         "web": "http://www.nyespolonaise.com/",
         "poi_type": "bar",
-        "scoop": "polka and pierogi, voted the best bar in America"
+        "scoop": "Polka and pierogi, voted the best bar in America. Closing in January! Go now! :("
       },
       "geometry": {
         "type": "Point",
@@ -92,7 +92,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Aster Bar",
+        "title": "Aster Cafe",
         "address": "125 SE Main St",
         "web": "http://aster-cafe.com",
         "poi_type": "bar",
@@ -109,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bar la Grassa",
+        "title": "Bar La Grassa",
         "address": "800 Washington Ave N",
         "web": "http://www.barlagrassa.com/",
         "poi_type": "restaurant",
@@ -267,7 +267,7 @@
         "address": "1430 Washington Ave. S Minneapolis, MN 55454",
         "web": "http://www.townhallbrewery.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room and Brew Pub"
+        "scoop": "Tap Room and Brew Pub, with food."
       },
       "geometry": {
         "type": "Point",
@@ -284,7 +284,7 @@
         "address": "1105 Washington Ave S Minneapolis, MN 55415",
         "web": "https://www.dayblockbrewing.com/",
         "poi_type": "beer",
-        "scoop": "Tap Room and Brew Pub"
+        "scoop": "Tap Room and Brew Pub. Good food!"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +315,7 @@
       "type": "Feature",
       "properties": {
         "title": "Moto-i Ramen & Sake House",
-        "address": "2940 Lyndale Ave S, Minneapolis, MN, 55408",
+        "address": "2940 Lyndale Ave S, Minneapolis, MN 55408",
         "web": "http://www.moto-i.com/",
         "poi_type": "restaurant",
         "scoop": "Sake Brewery and Japanese Pub Grub"
@@ -399,7 +399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sysiphus Brewing",
+        "title": "Sisyphus Brewing",
         "address": "712 Ontario Avenue W. #100 Minneapolis, MN 55403",
         "web": "http://www.sisyphusbrewing.com/",
         "poi_type": "beer",
@@ -620,7 +620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pizzaria Lola",
+        "title": "Pizzeria Lola",
         "address": "5557 Xerxes Ave. So., Minneapolis, MN 55410",
         "web": "http://www.pizzerialola.com/",
         "poi_type": "restaurant",
@@ -688,7 +688,8 @@
         "title": "Izzy's Ice Cream",
         "address": "1100 Second Street South, Minneapolis, MN 55415",
         "web": "http://izzysicecream.com/",
-        "poi_type": "ice-cream"
+        "poi_type": "ice-cream",
+        "scoop": "Fantastic homemade flavors, from vanilla to 'Cabernet de l'Orange'"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Minneapolis Institute of Arts",
+        "title": "Minneapolis Institute of Art",
         "address": "2400 3rd Ave S, Minneapolis, MN 55404",
         "web": "http://new.artsmia.org",
         "poi_type": "museum"
@@ -787,7 +788,8 @@
         "title": "Minneapolis Sculpture Garden",
         "address": "1750 Hennepin Avenue, Minneapolis, MN 55403",
         "web": "https://www.walkerart.org/garden/",
-        "poi_type": "museum"
+        "poi_type": "museum",
+        "scoop": "Currently under renovation, but you can still see the iconic 'Spoonbridge & Cherry.'"
       },
       "geometry": {
         "type": "Point",
@@ -820,7 +822,8 @@
         "title": "Mall of America",
         "address": "60 E Broadway, Bloomington, MN 55425",
         "web": "http://www.mallofamerica.com",
-        "poi_type": "shop"
+        "poi_type": "shop",
+        "scoop": "Yes, there's an entire amusement park in the middle."
       },
       "geometry": {
         "type": "Point",
@@ -885,7 +888,7 @@
         "address": "210 E Hennepin Ave, Minneapolis, MN 55414",
         "web": "http://www.punchpizza.com/",
         "poi_type": "restaurant",
-        "scoop": "Best Neopolitan pizza in town"
+        "scoop": "Best Neapolitan pizza in town"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1128,7 @@
         "address": "701 First Avenue N, Minneapolis, MN 55403",
         "poi_type": "bar",
         "web": "http://first-avenue.com/",
-        "scoop": "Rock and Roll pilgrimage destination. Take that selfie with the Husker Du star on the wall."
+        "scoop": "Rock and Roll pilgrimage destination. Take that selfie with the Hüsker Dü star on the wall."
       },
       "geometry": {
         "type": "Point",
@@ -1278,7 +1281,7 @@
         "address": "408 Hennepin Avenue N, Minneapolis, MN 55403",
         "poi_type": "bar",
         "web": "http://www.gay90s.com/",
-        "scoop": "Minneapolis institution since the 1920s"
+        "scoop": "Minneapolis institution since the 1920s. Many bars, drag shows."
       },
       "geometry": {
         "type": "Point",
@@ -1342,7 +1345,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sober Fish",
+        "title": "Soberfish",
         "address": "2627 E Franklin Ave, Minneapolis 55406",
         "web": "http://www.soberfishrestaurant.com/",
         "poi_type": "restaurant",
@@ -1414,7 +1417,8 @@
         "address": "1110 Nicollet Mall, Minneapolis MN 55403",
         "web": "http://www.britspub.com/",
         "poi_type": "bar",
-        "scoop": "MSP's most Brittish pub. Rooftop lawn bowling in good weather."
+
+        "scoop": "MSP's most British pub. Rooftop lawn bowling in good weather."
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1465,7 @@
      {
       "type": "Feature",
       "properties": {
-        "title": "Lunds and Byerly's",
+        "title": "Lunds and Byerlys",
         "address": "1201 Hennepin Ave, Minneapolis, MN 55403",
         "web": "http://lundsandbyerlys.com/our-stores/locations/downtown-minneapolis/",
         "poi_type": "grocery",
@@ -1668,7 +1672,8 @@
         "title": "Republic",
         "address": "221 Cedar Ave S, Minneapolis, MN 55454",
         "web": "http://www.republicmn.com/",
-        "poi_type": "bar"
+        "poi_type": "beer",
+        "scoop": "Pub with great beer selection."
       },
       "geometry": {
         "type": "Point",
@@ -1796,7 +1801,8 @@
         "title": "The Museum of Russian Art",
         "address": "5500 Stevens Ave S, Minneapolis, MN 55419",
         "poi_type": "museum",
-        "web": "http://tmora.org"
+        "web": "http://tmora.org",
+        "scoop": "Russian arts in a converted Spanish Mission-style church"
       },
       "geometry": {
         "type": "Point",
@@ -1812,7 +1818,8 @@
         "title": "Weisman Art Museum",
         "address": "333 East River Road, Minneapolis",
         "poi_type": "museum",
-        "web": "http://www.weisman.umn.edu/"
+        "web": "http://www.weisman.umn.edu/",
+        "scoop": "The U of M art museum, designed by Frank Gehry."
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +1915,7 @@
      {
       "type": "Feature",
       "properties": {
-        "title": "Bell Museum",
+        "title": "Bell Museum of Natural History",
         "address": "10 Church Street SE, Minneapolis, MN 55455",
         "poi_type": "museum",
         "web": "http://www.bellmuseum.umn.edu/"
@@ -1942,7 +1949,7 @@
       "type": "Feature",
       "properties": {
         "title": "Glam Doll Donuts",
-        "address": "2605 Niccollet Ave Minneapolis, MN 55408",
+        "address": "2605 Nicollet Ave Minneapolis, MN 55408",
         "poi_type": "bakery",
         "web": "http://www.glamdolldonuts.com/"
       },
@@ -1991,11 +1998,11 @@
      {
       "type": "Feature",
       "properties": {
-        "title": "Spoon River",
+        "title": "Spoonriver",
         "address": "750 South 2nd St, Minneapolis, MN 55401",
         "web": "http://spoonriver.com/",
         "poi_type": "restaurant",
-        "scoop": "Brenda Langdon has been doing local and organic in Minnesota since 1978."
+        "scoop": "Brenda Langton has been doing local and organic in Minnesota since 1978."
       },
       "geometry": {
         "type": "Point",
@@ -2147,7 +2154,7 @@
      "address": "50 N 2nd Ave, Minneapolis, MN 55401",
      "web": "http://thebachelorfarmer.com",
      "poi_type": "restaurant",
-     "scoop": "Quintesential MN restaurant, Nordic cuisine, POTUS ate here when he was in town."
+     "scoop": "Quintessential MN restaurant, Nordic cuisine, POTUS ate here when he was in town. $$$ and five stars "
    },
    "geometry": {
      "type": "Point",
@@ -2493,6 +2500,23 @@
         "coordinates": [
           -93.2644307,
            45.0007684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastside",
+        "address": "305 Washington Ave S, Minneapolis, MN 55415",
+        "poi_type": "restaurant",
+        "web": "http://eastsidempls.com",
+        "scoop": "Brand-spanking new place with American-fusion fare, featuring sherry cocktails."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2639586,
+           44.9797143
         ]
       }
     }
