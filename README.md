@@ -1,15 +1,20 @@
 Welcome Map for NACIS Annual Meeting 2015
 ==========
 
-The North American Cartographic Information Society [annual meeting](http://nacis.org/annual-meeting/current-meeting/) is coming to Minneapolis in October 2015!
+## About the Project  
+The North American Cartographic Information Society [annual meeting](http://nacis.org/annual-meeting/current-meeting/) was in Minneapolis in October 2015!
 
-[Maptime MSP](http://wwww.meetup.com/MaptimeMSP/) is building a map to welcome our cartographic brothers and sisters and provide them with a map of some of our favorite places to eat, drink, and visit.  And, in the process, we are going to be learning about creating Web maps and using distributed version control (Git/Github) to collaborate on a project.
+[Maptime MSP](http://wwww.meetup.com/MaptimeMSP/) built a map to welcome our cartographic brothers and sisters and provide them with a map of some of our favorite places to eat, drink, and visit.  And, in the process, we learned how to create web maps and use distributed version control (Git/Github) to collaborate on a project.
 
-The primary motivations for this project are:
+The primary motivations for this project were to:
  -    Create a mobile-friendly map of favorite local spots for NACIS 2015.
  -    Provide a vehicle for new people to learn how to use Github.
- -    Collaborate on a useful project as a Maptime chapter
+ -    Collaborate on a useful project as a Maptime chapter.
  
-You can find a lot more info about the project in our [wiki](../../wiki)!
+You can find a lot more info about the project on our [wiki](../../wiki)!  
 
+## Poster
+Check out the [poster](https://github.com/maptimemsp/nacis2015-map/blob/master/promo/maptime_nacis_poster.pdf) we submitted to the map gallery explaining the project!  
+
+![poster-snapshot](https://cloud.githubusercontent.com/assets/5023024/10680157/ca6597dc-78e2-11e5-84d8-2837aba3cd02.png)
 
